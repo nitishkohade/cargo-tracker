@@ -1,0 +1,49 @@
+services:
+  database:
+    env_file: 
+      - ./server/mysql.env
+    image: mysql
+    restart: always
+    ports:
+      - '3306:3306'
+    expose:
+      - 3306
+    volumes:
+      - cargoDB:/var/lib/mysql
+  testDB:
+    env_file:
+      - ./server/mysql.test.env
+    image: mysql
+    restart: always
+    ports:
+      - '3308:3306'
+    expose:
+      - 3308
+    volumes:
+      - testCargoDB:/var/lib/mysql
+  # server:
+  #   env_file: ./server/server.env
+  #   build: 
+  #     context: ./server
+  #     dockerfile: ./Dockerfile
+  #   image: "cargo-server"
+  #   ports:
+  #     - "3000:3000"
+  #   expose:
+  #     - 3000
+  #   depends_on:
+  #     - database
+  #   environment:
+  #     DATABASE_URL: mysql://nitish@nitish/cargo
+  # client:
+  #   build: 
+  #     context: ./client
+  #     dockerfile: ./Dockerfile
+  #   image: "cargo-client"
+  #   ports:
+  #     - "4200:3000"
+  #   expose:
+  #     - 4200
+volumes:
+  cargoDB:
+  testCargoDB:
