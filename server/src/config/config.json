@@ -1,0 +1,26 @@
+{
+      "development": {
+        "username": "nitish",
+        "password": "nitish",
+        "database": "cargo",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "port": "3306"
+      },
+      "test": {
+        "username": "nitish",
+        "password": "nitish",
+        "database": "test",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "port": "3308"
+      },
+      "production": {
+        "username": "nitish",
+        "password": "nitish",
+        "database": "cargo",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "port": "3306"
+      }
+}

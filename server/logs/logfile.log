@@ -1,0 +1,2191 @@
+2021-11-27T12:42:01.029Z - [32minfo[39m: Server Port: 3000
+2021-11-27T12:42:01.031Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:09:03.855Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:09:03.858Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:10:36.869Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:10:36.876Z - [32minfo[39m: truck is being created
+2021-11-27T14:10:36.876Z - [32minfo[39m: undefined
+2021-11-27T14:10:36.905Z - [32minfo[39m: truck have been created
+2021-11-27T14:11:27.221Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:11:27.222Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-27T14:11:27.222Z - [32minfo[39m: undefined
+2021-11-27T14:11:27.233Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-27T14:18:56.461Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:18:56.464Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:22:01.932Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:22:01.936Z - [32minfo[39m: last undefined locations for truckId undefined
+2021-11-27T14:22:01.936Z - [32minfo[39m: undefined
+2021-11-27T14:22:01.941Z - [32minfo[39m: WHERE parameter "truckId" has invalid "undefined" value
+2021-11-27T14:22:51.564Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:22:51.566Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:22:54.520Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:22:54.524Z - [32minfo[39m: last 5 locations for truckId 1
+2021-11-27T14:22:54.524Z - [32minfo[39m: undefined
+2021-11-27T14:22:54.534Z - [32minfo[39m: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''5'' at line 1
+2021-11-27T14:23:07.666Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:23:07.668Z - [32minfo[39m: last 1 locations for truckId 1
+2021-11-27T14:23:07.668Z - [32minfo[39m: undefined
+2021-11-27T14:23:07.673Z - [32minfo[39m: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1'' at line 1
+2021-11-27T14:24:36.451Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:24:36.453Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:24:46.477Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:24:46.481Z - [32minfo[39m: last 1 locations for truckId 1
+2021-11-27T14:24:46.481Z - [32minfo[39m: undefined
+2021-11-27T14:24:46.490Z - [32minfo[39m: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1'' at line 1
+2021-11-27T14:25:09.770Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:25:09.773Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:25:14.166Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:25:14.169Z - [32minfo[39m: last 1 locations for truckId 1
+2021-11-27T14:25:14.170Z - [32minfo[39m: undefined
+2021-11-27T14:25:14.178Z - [32minfo[39m: last 1 locations of truckId 1 has been retrieved
+2021-11-27T14:25:46.367Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:25:46.369Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:26:02.269Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:26:02.273Z - [32minfo[39m: last 1 locations for truckId 1
+2021-11-27T14:26:02.273Z - [32minfo[39m: undefined
+2021-11-27T14:26:02.282Z - [32minfo[39m: last 1 locations of truckId 1 has been retrieved
+2021-11-27T14:26:14.905Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:26:14.906Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-27T14:26:14.906Z - [32minfo[39m: undefined
+2021-11-27T14:26:14.921Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-27T14:26:23.503Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:26:23.504Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-27T14:26:23.505Z - [32minfo[39m: undefined
+2021-11-27T14:26:23.515Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-27T14:26:28.184Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:26:28.186Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-27T14:26:28.186Z - [32minfo[39m: undefined
+2021-11-27T14:26:28.199Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-27T14:26:33.275Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:26:33.276Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-27T14:26:33.276Z - [32minfo[39m: undefined
+2021-11-27T14:26:33.285Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-27T14:26:38.010Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:26:38.011Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-27T14:26:38.011Z - [32minfo[39m: undefined
+2021-11-27T14:26:38.023Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-27T14:26:55.632Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:26:55.633Z - [32minfo[39m: last 1 locations for truckId 1
+2021-11-27T14:26:55.633Z - [32minfo[39m: undefined
+2021-11-27T14:26:55.638Z - [32minfo[39m: last 1 locations of truckId 1 has been retrieved
+2021-11-27T14:27:13.938Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:27:13.939Z - [32minfo[39m: last 5 locations for truckId 1
+2021-11-27T14:27:13.939Z - [32minfo[39m: undefined
+2021-11-27T14:27:13.944Z - [32minfo[39m: last 5 locations of truckId 1 has been retrieved
+2021-11-27T14:28:47.426Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:28:47.427Z - [32minfo[39m: Route not found
+2021-11-27T14:29:17.641Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:29:17.642Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-27T14:29:17.643Z - [32minfo[39m: undefined
+2021-11-27T14:29:17.659Z - [32minfo[39m: truck info has been received
+2021-11-27T14:32:24.301Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:32:24.304Z - [32minfo[39m: truck is being updated
+2021-11-27T14:32:24.306Z - [32minfo[39m: undefined
+2021-11-27T14:32:24.319Z - [32minfo[39m: truck did not update
+2021-11-27T14:32:57.023Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:32:57.025Z - [32minfo[39m: truck is being updated
+2021-11-27T14:32:57.025Z - [32minfo[39m: undefined
+2021-11-27T14:32:57.031Z - [32minfo[39m: truck did not update
+2021-11-27T14:33:28.853Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:33:28.855Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:33:34.393Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:33:34.397Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-27T14:33:34.397Z - [32minfo[39m: undefined
+2021-11-27T14:33:34.421Z - [32minfo[39m: truck info has been received
+2021-11-27T14:34:37.054Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:34:37.056Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:34:39.790Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:34:39.793Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-27T14:34:39.794Z - [32minfo[39m: undefined
+2021-11-27T14:34:39.815Z - [32minfo[39m: truck info has been received
+2021-11-27T14:34:59.961Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:34:59.963Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:38:05.079Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:38:05.082Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-27T14:38:05.082Z - [32minfo[39m: undefined
+2021-11-27T14:38:05.107Z - [32minfo[39m: truck info has been received
+2021-11-27T14:41:02.358Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:41:02.360Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:41:13.676Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:41:13.680Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-27T14:41:13.680Z - [32minfo[39m: undefined
+2021-11-27T14:41:13.702Z - [32minfo[39m: truck info has been received
+2021-11-27T14:53:20.821Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:53:20.823Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:53:32.863Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:53:32.867Z - [32minfo[39m: last 5 locations for truckId 1
+2021-11-27T14:53:32.868Z - [32minfo[39m: undefined
+2021-11-27T14:53:32.877Z - [32minfo[39m: last 5 locations of truckId 1 has been retrieved
+2021-11-27T14:53:40.151Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:53:40.153Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-27T14:53:40.153Z - [32minfo[39m: undefined
+2021-11-27T14:53:40.172Z - [32minfo[39m: truck info has been received
+2021-11-27T14:57:15.362Z - [32minfo[39m: Server Port: 3000
+2021-11-27T14:57:15.364Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T14:57:21.681Z - [32minfo[39m: Database Connection is successful
+2021-11-27T14:57:21.685Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-27T14:57:21.685Z - [32minfo[39m: undefined
+2021-11-27T14:57:21.707Z - [32minfo[39m: truck info has been received
+2021-11-27T15:03:46.193Z - [32minfo[39m: Server Port: 3000
+2021-11-27T15:03:46.195Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T15:03:48.729Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:03:48.732Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-27T15:03:48.733Z - [32minfo[39m: undefined
+2021-11-27T15:03:48.754Z - [32minfo[39m: truck info has been received
+2021-11-27T15:04:58.457Z - [32minfo[39m: Server Port: 3000
+2021-11-27T15:04:58.459Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T15:05:11.861Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:05:11.865Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-27T15:05:11.865Z - [32minfo[39m: undefined
+2021-11-27T15:05:11.891Z - [32minfo[39m: truck info has been received
+2021-11-27T15:05:42.062Z - [32minfo[39m: Server Port: 3000
+2021-11-27T15:05:42.064Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T15:07:18.697Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:07:18.704Z - [32minfo[39m: Error connecting to DB
+2021-11-27T15:08:38.115Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:08:38.116Z - [32minfo[39m: Error connecting to DB
+2021-11-27T15:11:04.174Z - [32minfo[39m: Server Port: 3000
+2021-11-27T15:11:04.176Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T15:11:08.476Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:11:08.482Z - [32minfo[39m: ddddddd
+2021-11-27T15:11:45.002Z - [32minfo[39m: Server Port: 3000
+2021-11-27T15:11:45.004Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T15:11:48.946Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:11:48.954Z - [32minfo[39m: Error connecting to DB
+2021-11-27T15:21:43.667Z - [32minfo[39m: Server Port: 3000
+2021-11-27T15:21:43.669Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T15:21:46.825Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:21:46.830Z - [32minfo[39m: Error connecting to DB
+2021-11-27T15:23:10.431Z - [32minfo[39m: Server Port: 3000
+2021-11-27T15:23:10.434Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T15:23:17.386Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:23:17.391Z - [32minfo[39m: Error connecting to DB
+2021-11-27T15:23:43.741Z - [32minfo[39m: Server Port: 3000
+2021-11-27T15:23:43.743Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T15:23:47.501Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:23:47.509Z - [32minfo[39m: Error connecting to DB
+2021-11-27T15:26:29.705Z - [32minfo[39m: Server Port: 3000
+2021-11-27T15:26:29.707Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T15:26:41.207Z - [32minfo[39m: Server Port: 3000
+2021-11-27T15:26:41.208Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T15:26:43.966Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:26:43.971Z - [32minfo[39m: validation error.
+2021-11-27T15:28:21.598Z - [32minfo[39m: Server Port: 3000
+2021-11-27T15:28:21.599Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T15:28:26.646Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:28:26.650Z - [32minfo[39m: validation error.
+2021-11-27T15:28:34.456Z - [32minfo[39m: Database Connection is successful
+2021-11-27T15:28:34.457Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-27T15:28:34.458Z - [32minfo[39m: undefined
+2021-11-27T15:28:34.479Z - [32minfo[39m: truck info has been received
+2021-11-27T18:09:51.059Z - [32minfo[39m: Server Port: 3000
+2021-11-27T18:09:51.061Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T19:18:48.579Z - [32minfo[39m: Server Port: 3000
+2021-11-27T19:18:48.581Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-27T19:18:57.146Z - [32minfo[39m: Database Connection is successful
+2021-11-27T19:18:57.149Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-27T19:18:57.150Z - [32minfo[39m: undefined
+2021-11-27T19:18:57.187Z - [32minfo[39m: truck info has been received
+2021-11-27T19:19:08.305Z - [32minfo[39m: Database Connection is successful
+2021-11-27T19:19:08.309Z - [32minfo[39m: validation error.
+2021-11-28T02:34:19.087Z - [32minfo[39m: Server Port: 3000
+2021-11-28T02:34:19.089Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T02:43:31.887Z - [32minfo[39m: Server Port: 3000
+2021-11-28T02:43:31.889Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T02:47:38.782Z - [32minfo[39m: Server Port: 3000
+2021-11-28T02:47:38.784Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T02:55:35.949Z - [32minfo[39m: Server Port: 3000
+2021-11-28T02:55:35.951Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T02:55:36.111Z - [32minfo[39m: Database Connection is successful
+2021-11-28T02:55:36.115Z - [32minfo[39m: validation error.
+2021-11-28T03:46:45.035Z - [32minfo[39m: Server Port: 3000
+2021-11-28T03:46:45.038Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T03:47:51.513Z - [32minfo[39m: Server Port: 3000
+2021-11-28T03:47:51.515Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T03:48:08.045Z - [32minfo[39m: Server Port: 3000
+2021-11-28T03:48:08.048Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T03:48:38.853Z - [32minfo[39m: Server Port: 3000
+2021-11-28T03:48:38.856Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T03:50:46.838Z - [32minfo[39m: Server Port: 3000
+2021-11-28T03:50:46.840Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T04:11:58.917Z - [32minfo[39m: Server Port: 3000
+2021-11-28T04:11:58.919Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T04:11:59.022Z - [32minfo[39m: Database is up and running
+2021-11-28T04:11:59.025Z - [32minfo[39m: validation error.
+2021-11-28T04:42:17.212Z - [32minfo[39m: Server Port: 3000
+2021-11-28T04:42:17.213Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T04:42:17.292Z - [32minfo[39m: Database is up and running
+2021-11-28T04:42:17.295Z - [32minfo[39m: validation error.
+2021-11-28T05:03:54.767Z - [32minfo[39m: Server Port: 3000
+2021-11-28T05:03:54.769Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T05:03:54.789Z - [32minfo[39m: Cannot read property 'authenticate' of undefined
+2021-11-28T05:08:55.930Z - [32minfo[39m: Server Port: 3000
+2021-11-28T05:08:55.932Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T05:08:55.950Z - [32minfo[39m: Cannot read property 'authenticate' of undefined
+2021-11-28T05:09:50.055Z - [32minfo[39m: Server Port: 3000
+2021-11-28T05:09:50.056Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T05:09:50.074Z - [32minfo[39m: Cannot read property 'authenticate' of undefined
+2021-11-28T05:12:12.894Z - [32minfo[39m: Server Port: 3000
+2021-11-28T05:12:12.896Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T05:12:12.920Z - [32minfo[39m: Database is up and running
+2021-11-28T05:12:12.922Z - [32minfo[39m: Route not found
+2021-11-28T05:14:24.523Z - [32minfo[39m: Server Port: 3000
+2021-11-28T05:14:24.524Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T05:14:24.545Z - [32minfo[39m: Database is up and running
+2021-11-28T05:14:24.546Z - [32minfo[39m: Route not found
+2021-11-28T12:44:10.512Z - [32minfo[39m: Server Port: 3000
+2021-11-28T12:44:10.514Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T12:44:10.536Z - [32minfo[39m: Database is up and running
+2021-11-28T12:44:10.537Z - [32minfo[39m: Route not found
+2021-11-28T13:43:22.637Z - [32minfo[39m: Server Port: 3000
+2021-11-28T13:43:22.639Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T13:43:22.659Z - [32minfo[39m: Database is up and running
+2021-11-28T13:43:22.660Z - [32minfo[39m: Route not found
+2021-11-28T13:43:22.677Z - [32minfo[39m: random error message
+2021-11-28T13:44:13.206Z - [32minfo[39m: Server Port: 3000
+2021-11-28T13:44:13.208Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T13:44:13.230Z - [32minfo[39m: Database is up and running
+2021-11-28T13:44:13.231Z - [32minfo[39m: Route not found
+2021-11-28T13:44:13.246Z - [32minfo[39m: random error message
+2021-11-28T13:45:16.766Z - [32minfo[39m: Server Port: 3000
+2021-11-28T13:45:16.768Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T13:45:16.789Z - [32minfo[39m: Database is up and running
+2021-11-28T13:45:16.790Z - [32minfo[39m: Route not found
+2021-11-28T13:45:16.805Z - [32minfo[39m: random error message
+2021-11-28T13:46:21.948Z - [32minfo[39m: Server Port: 3000
+2021-11-28T13:46:21.950Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T13:46:21.970Z - [32minfo[39m: Database is up and running
+2021-11-28T13:46:21.971Z - [32minfo[39m: Route not found
+2021-11-28T13:46:21.986Z - [32minfo[39m: random error message
+2021-11-28T13:46:40.472Z - [32minfo[39m: Server Port: 3000
+2021-11-28T13:46:40.474Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T13:46:40.492Z - [32minfo[39m: Database is up and running
+2021-11-28T13:46:40.493Z - [32minfo[39m: Route not found
+2021-11-28T13:46:40.506Z - [32minfo[39m: random error message
+2021-11-28T13:57:14.671Z - [32minfo[39m: Server Port: 3000
+2021-11-28T13:57:14.673Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T13:57:14.692Z - [32minfo[39m: Database is up and running
+2021-11-28T13:57:14.693Z - [32minfo[39m: Route not found
+2021-11-28T13:57:14.707Z - [32minfo[39m: random error message
+2021-11-28T13:57:55.364Z - [32minfo[39m: Server Port: 3000
+2021-11-28T13:57:55.366Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T13:57:55.387Z - [32minfo[39m: Database is up and running
+2021-11-28T13:57:55.388Z - [32minfo[39m: Route not found
+2021-11-28T13:57:55.403Z - [32minfo[39m: random error message
+2021-11-28T13:58:14.896Z - [32minfo[39m: Server Port: 3000
+2021-11-28T13:58:14.898Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T13:58:14.919Z - [32minfo[39m: Database is up and running
+2021-11-28T13:58:14.920Z - [32minfo[39m: Route not found
+2021-11-28T13:58:14.935Z - [32minfo[39m: random error message
+2021-11-28T14:07:44.941Z - [32minfo[39m: Server Port: 3000
+2021-11-28T14:07:44.942Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T14:07:44.961Z - [32minfo[39m: Database is up and running
+2021-11-28T14:07:44.962Z - [32minfo[39m: Route not found
+2021-11-28T14:08:59.480Z - [32minfo[39m: Server Port: 3000
+2021-11-28T14:08:59.482Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T14:08:59.501Z - [32minfo[39m: Database is up and running
+2021-11-28T14:08:59.502Z - [32minfo[39m: Route not found
+2021-11-28T14:13:12.675Z - [32minfo[39m: Server Port: 3000
+2021-11-28T14:13:12.677Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T14:13:12.696Z - [32minfo[39m: Database is up and running
+2021-11-28T14:13:12.697Z - [32minfo[39m: Route not found
+2021-11-28T14:20:52.280Z - [32minfo[39m: Server Port: 3000
+2021-11-28T14:20:52.282Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T14:20:52.303Z - [32minfo[39m: Database is up and running
+2021-11-28T14:20:52.304Z - [32minfo[39m: Route not found
+2021-11-28T14:22:05.912Z - [32minfo[39m: Server Port: 3000
+2021-11-28T14:22:05.916Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T14:22:05.944Z - [32minfo[39m: Database is up and running
+2021-11-28T14:22:05.946Z - [32minfo[39m: Route not found
+2021-11-28T14:24:34.814Z - [32minfo[39m: Server Port: 3000
+2021-11-28T14:24:34.816Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T14:24:34.837Z - [32minfo[39m: Database is up and running
+2021-11-28T14:24:34.838Z - [32minfo[39m: Route not found
+2021-11-28T14:55:58.418Z - [32minfo[39m: Server Port: 3000
+2021-11-28T14:55:58.420Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T14:55:58.439Z - [32minfo[39m: Route not found
+2021-11-28T15:02:36.993Z - [32minfo[39m: Server Port: 3000
+2021-11-28T15:02:36.994Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T15:02:37.014Z - [32minfo[39m: Route not found
+2021-11-28T15:04:34.389Z - [32minfo[39m: Server Port: 3000
+2021-11-28T15:04:34.391Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T15:04:34.413Z - [32minfo[39m: Route not found
+2021-11-28T15:06:20.830Z - [32minfo[39m: Server Port: 3000
+2021-11-28T15:06:20.832Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T15:06:20.852Z - [32minfo[39m: Route not found
+2021-11-28T15:06:20.879Z - [32minfo[39m: Database is up and running
+2021-11-28T15:06:20.885Z - [32minfo[39m: truck is being created
+2021-11-28T15:06:20.885Z - [32minfo[39m: undefined
+2021-11-28T15:06:20.888Z - [32minfo[39m: truck have been created
+2021-11-28T15:08:47.468Z - [32minfo[39m: Server Port: 3000
+2021-11-28T15:08:47.470Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T15:08:47.493Z - [32minfo[39m: Route not found
+2021-11-28T15:08:47.515Z - [32minfo[39m: Database is up and running
+2021-11-28T15:08:47.520Z - [32minfo[39m: truck is being created
+2021-11-28T15:08:47.520Z - [32minfo[39m: undefined
+2021-11-28T15:08:47.522Z - [32minfo[39m: truck have been created
+2021-11-28T15:10:17.510Z - [32minfo[39m: Server Port: 3000
+2021-11-28T15:10:17.512Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T15:10:17.531Z - [32minfo[39m: Route not found
+2021-11-28T15:10:17.554Z - [32minfo[39m: Database is up and running
+2021-11-28T15:10:17.558Z - [32minfo[39m: truck is being created
+2021-11-28T15:10:17.558Z - [32minfo[39m: undefined
+2021-11-28T15:10:17.560Z - [32minfo[39m: truck have been created
+2021-11-28T15:11:17.732Z - [32minfo[39m: Server Port: 3000
+2021-11-28T15:11:17.733Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T15:11:17.753Z - [32minfo[39m: Route not found
+2021-11-28T15:11:17.776Z - [32minfo[39m: Database is up and running
+2021-11-28T15:11:17.781Z - [32minfo[39m: truck is being created
+2021-11-28T15:11:17.782Z - [32minfo[39m: undefined
+2021-11-28T15:11:17.784Z - [32minfo[39m: truck have been created
+2021-11-28T15:11:17.789Z - [32minfo[39m: Database is up and running
+2021-11-28T15:11:17.790Z - [32minfo[39m: truck is being created
+2021-11-28T15:11:17.791Z - [32minfo[39m: undefined
+2021-11-28T15:11:17.791Z - [32minfo[39m: truck have been created
+2021-11-28T15:32:00.943Z - [32minfo[39m: Server Port: 3000
+2021-11-28T15:32:00.944Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T15:32:00.964Z - [32minfo[39m: Route not found
+2021-11-28T15:32:00.985Z - [32minfo[39m: Database is up and running
+2021-11-28T15:32:00.990Z - [32minfo[39m: truck is being created
+2021-11-28T15:32:00.990Z - [32minfo[39m: undefined
+2021-11-28T15:32:00.991Z - [32minfo[39m: A new truck has been created
+2021-11-28T15:35:02.578Z - [32minfo[39m: Server Port: 3000
+2021-11-28T15:35:02.579Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T15:35:02.600Z - [32minfo[39m: Route not found
+2021-11-28T15:35:02.624Z - [32minfo[39m: Database is up and running
+2021-11-28T15:35:02.629Z - [32minfo[39m: truck is being created
+2021-11-28T15:35:02.629Z - [32minfo[39m: undefined
+2021-11-28T15:35:02.631Z - [32minfo[39m: A new truck has been created
+2021-11-28T15:37:31.708Z - [32minfo[39m: Server Port: 3000
+2021-11-28T15:37:31.710Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T15:37:31.730Z - [32minfo[39m: Route not found
+2021-11-28T15:37:31.755Z - [32minfo[39m: Database is up and running
+2021-11-28T15:37:31.760Z - [32minfo[39m: truck is being created
+2021-11-28T15:37:31.760Z - [32minfo[39m: undefined
+2021-11-28T15:37:31.763Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:24:59.171Z - [32minfo[39m: Server Port: 3000
+2021-11-28T16:24:59.173Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T16:24:59.196Z - [32minfo[39m: Route not found
+2021-11-28T16:24:59.219Z - [32minfo[39m: Database is up and running
+2021-11-28T16:24:59.224Z - [32minfo[39m: truck is being created
+2021-11-28T16:24:59.224Z - [32minfo[39m: undefined
+2021-11-28T16:24:59.226Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:25:34.470Z - [32minfo[39m: Server Port: 3000
+2021-11-28T16:25:34.472Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T16:25:34.492Z - [32minfo[39m: Route not found
+2021-11-28T16:25:34.515Z - [32minfo[39m: Database is up and running
+2021-11-28T16:25:34.521Z - [32minfo[39m: truck is being created
+2021-11-28T16:25:34.521Z - [32minfo[39m: undefined
+2021-11-28T16:25:34.523Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:25:34.530Z - [32minfo[39m: Database is up and running
+2021-11-28T16:25:34.531Z - [32minfo[39m: Database is up and running
+2021-11-28T16:25:34.533Z - [32minfo[39m: truck is being created
+2021-11-28T16:25:34.533Z - [32minfo[39m: undefined
+2021-11-28T16:25:34.533Z - [32minfo[39m: truck is being created
+2021-11-28T16:25:34.533Z - [32minfo[39m: undefined
+2021-11-28T16:25:34.534Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:25:34.534Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:25:54.465Z - [32minfo[39m: Server Port: 3000
+2021-11-28T16:25:54.467Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T16:25:54.489Z - [32minfo[39m: Route not found
+2021-11-28T16:25:54.512Z - [32minfo[39m: Database is up and running
+2021-11-28T16:25:54.518Z - [32minfo[39m: truck is being created
+2021-11-28T16:25:54.518Z - [32minfo[39m: undefined
+2021-11-28T16:25:54.520Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:25:54.526Z - [32minfo[39m: Database is up and running
+2021-11-28T16:25:54.527Z - [32minfo[39m: Database is up and running
+2021-11-28T16:25:54.528Z - [32minfo[39m: truck is being created
+2021-11-28T16:25:54.528Z - [32minfo[39m: undefined
+2021-11-28T16:25:54.529Z - [32minfo[39m: truck is being created
+2021-11-28T16:25:54.529Z - [32minfo[39m: undefined
+2021-11-28T16:25:54.529Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:25:54.529Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:26:34.475Z - [32minfo[39m: Server Port: 3000
+2021-11-28T16:26:34.477Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T16:26:34.497Z - [32minfo[39m: Route not found
+2021-11-28T16:26:34.520Z - [32minfo[39m: Database is up and running
+2021-11-28T16:26:34.525Z - [32minfo[39m: truck is being created
+2021-11-28T16:26:34.526Z - [32minfo[39m: undefined
+2021-11-28T16:26:34.528Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:26:34.536Z - [32minfo[39m: Database is up and running
+2021-11-28T16:26:34.536Z - [32minfo[39m: Database is up and running
+2021-11-28T16:26:34.538Z - [32minfo[39m: truck is being created
+2021-11-28T16:26:34.538Z - [32minfo[39m: undefined
+2021-11-28T16:26:34.539Z - [32minfo[39m: truck is being created
+2021-11-28T16:26:34.539Z - [32minfo[39m: undefined
+2021-11-28T16:26:34.540Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:26:34.540Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:27:44.349Z - [32minfo[39m: Server Port: 3000
+2021-11-28T16:27:44.351Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T16:27:44.371Z - [32minfo[39m: Route not found
+2021-11-28T16:27:44.395Z - [32minfo[39m: Database is up and running
+2021-11-28T16:27:44.400Z - [32minfo[39m: truck is being created
+2021-11-28T16:27:44.401Z - [32minfo[39m: undefined
+2021-11-28T16:27:44.403Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:27:44.411Z - [32minfo[39m: Database is up and running
+2021-11-28T16:27:44.411Z - [32minfo[39m: Database is up and running
+2021-11-28T16:27:44.413Z - [32minfo[39m: truck is being created
+2021-11-28T16:27:44.413Z - [32minfo[39m: undefined
+2021-11-28T16:27:44.413Z - [32minfo[39m: truck is being created
+2021-11-28T16:27:44.414Z - [32minfo[39m: undefined
+2021-11-28T16:27:44.414Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:27:44.414Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:29:48.357Z - [32minfo[39m: Server Port: 3000
+2021-11-28T16:29:48.359Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T16:29:48.379Z - [32minfo[39m: Route not found
+2021-11-28T16:29:48.403Z - [32minfo[39m: Database is up and running
+2021-11-28T16:29:48.408Z - [32minfo[39m: truck is being created
+2021-11-28T16:29:48.408Z - [32minfo[39m: undefined
+2021-11-28T16:29:48.410Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:29:48.415Z - [32minfo[39m: Database is up and running
+2021-11-28T16:29:48.417Z - [32minfo[39m: truck is being created
+2021-11-28T16:29:48.417Z - [32minfo[39m: undefined
+2021-11-28T16:29:48.417Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:32:17.373Z - [32minfo[39m: Server Port: 3000
+2021-11-28T16:32:17.374Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T16:32:17.393Z - [32minfo[39m: Route not found
+2021-11-28T16:32:17.417Z - [32minfo[39m: Database is up and running
+2021-11-28T16:32:17.421Z - [32minfo[39m: truck is being created
+2021-11-28T16:32:17.421Z - [32minfo[39m: undefined
+2021-11-28T16:32:17.423Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:32:17.430Z - [32minfo[39m: Database is up and running
+2021-11-28T16:32:17.431Z - [32minfo[39m: truck is being created
+2021-11-28T16:32:17.431Z - [32minfo[39m: undefined
+2021-11-28T16:32:17.432Z - [32minfo[39m: A new truck has been created
+2021-11-28T16:36:24.955Z - [32minfo[39m: Server Port: 3000
+2021-11-28T16:36:24.957Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T16:36:24.977Z - [32minfo[39m: Route not found
+2021-11-28T16:36:25.001Z - [32minfo[39m: Database is up and running
+2021-11-28T16:36:25.006Z - [32minfo[39m: validation error.
+2021-11-28T18:39:23.283Z - [32minfo[39m: Server Port: 3000
+2021-11-28T18:39:23.285Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T18:39:23.308Z - [32minfo[39m: Route not found
+2021-11-28T18:39:23.333Z - [32minfo[39m: Database is up and running
+2021-11-28T18:39:23.338Z - [32minfo[39m: truck is being created
+2021-11-28T18:39:23.338Z - [32minfo[39m: undefined
+2021-11-28T18:39:23.340Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:39:23.346Z - [32minfo[39m: Database is up and running
+2021-11-28T18:39:23.347Z - [32minfo[39m: truck is being created
+2021-11-28T18:39:23.347Z - [32minfo[39m: undefined
+2021-11-28T18:39:23.349Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:48:13.113Z - [32minfo[39m: Server Port: 3000
+2021-11-28T18:48:13.114Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T18:48:13.133Z - [32minfo[39m: Route not found
+2021-11-28T18:48:13.155Z - [32minfo[39m: Database is up and running
+2021-11-28T18:48:13.159Z - [32minfo[39m: truck is being created
+2021-11-28T18:48:13.159Z - [32minfo[39m: undefined
+2021-11-28T18:48:13.162Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:48:13.168Z - [32minfo[39m: Database is up and running
+2021-11-28T18:48:13.169Z - [32minfo[39m: truck is being created
+2021-11-28T18:48:13.169Z - [32minfo[39m: undefined
+2021-11-28T18:48:13.169Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:48:59.644Z - [32minfo[39m: Server Port: 3000
+2021-11-28T18:48:59.646Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T18:48:59.665Z - [32minfo[39m: Route not found
+2021-11-28T18:48:59.688Z - [32minfo[39m: Database is up and running
+2021-11-28T18:48:59.693Z - [32minfo[39m: truck is being created
+2021-11-28T18:48:59.694Z - [32minfo[39m: undefined
+2021-11-28T18:48:59.695Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:48:59.702Z - [32minfo[39m: Database is up and running
+2021-11-28T18:48:59.703Z - [32minfo[39m: Database is up and running
+2021-11-28T18:48:59.704Z - [32minfo[39m: truck is being created
+2021-11-28T18:48:59.704Z - [32minfo[39m: undefined
+2021-11-28T18:48:59.704Z - [32minfo[39m: truck is being created
+2021-11-28T18:48:59.705Z - [32minfo[39m: undefined
+2021-11-28T18:48:59.705Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:48:59.705Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:49:34.607Z - [32minfo[39m: Server Port: 3000
+2021-11-28T18:49:34.609Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T18:49:34.628Z - [32minfo[39m: Route not found
+2021-11-28T18:49:34.654Z - [32minfo[39m: Database is up and running
+2021-11-28T18:49:34.659Z - [32minfo[39m: truck is being created
+2021-11-28T18:49:34.659Z - [32minfo[39m: undefined
+2021-11-28T18:49:34.661Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:49:34.668Z - [32minfo[39m: Database is up and running
+2021-11-28T18:49:34.668Z - [32minfo[39m: Database is up and running
+2021-11-28T18:49:34.670Z - [32minfo[39m: truck is being created
+2021-11-28T18:49:34.670Z - [32minfo[39m: undefined
+2021-11-28T18:49:34.670Z - [32minfo[39m: truck is being created
+2021-11-28T18:49:34.671Z - [32minfo[39m: undefined
+2021-11-28T18:49:34.673Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:49:34.673Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:50:08.625Z - [32minfo[39m: Server Port: 3000
+2021-11-28T18:50:08.627Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T18:50:08.648Z - [32minfo[39m: Route not found
+2021-11-28T18:50:08.673Z - [32minfo[39m: Database is up and running
+2021-11-28T18:50:08.678Z - [32minfo[39m: truck is being created
+2021-11-28T18:50:08.678Z - [32minfo[39m: undefined
+2021-11-28T18:50:08.679Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:50:08.685Z - [32minfo[39m: Database is up and running
+2021-11-28T18:50:08.686Z - [32minfo[39m: truck is being created
+2021-11-28T18:50:08.686Z - [32minfo[39m: undefined
+2021-11-28T18:50:08.687Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:50:08.690Z - [32minfo[39m: Database is up and running
+2021-11-28T18:50:08.691Z - [32minfo[39m: truck is being created
+2021-11-28T18:50:08.691Z - [32minfo[39m: undefined
+2021-11-28T18:50:08.692Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:52:07.002Z - [32minfo[39m: Server Port: 3000
+2021-11-28T18:52:07.005Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T18:52:07.027Z - [32minfo[39m: Route not found
+2021-11-28T18:52:07.051Z - [32minfo[39m: Database is up and running
+2021-11-28T18:52:07.055Z - [32minfo[39m: truck is being created
+2021-11-28T18:52:07.056Z - [32minfo[39m: undefined
+2021-11-28T18:52:07.057Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:52:07.062Z - [32minfo[39m: Database is up and running
+2021-11-28T18:52:07.063Z - [32minfo[39m: truck is being created
+2021-11-28T18:52:07.063Z - [32minfo[39m: undefined
+2021-11-28T18:52:07.064Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:52:07.068Z - [32minfo[39m: Database is up and running
+2021-11-28T18:52:07.068Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-28T18:52:07.068Z - [32minfo[39m: undefined
+2021-11-28T18:52:07.069Z - [32minfo[39m: truck info has been received
+2021-11-28T18:53:42.022Z - [32minfo[39m: Server Port: 3000
+2021-11-28T18:53:42.024Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T18:53:42.045Z - [32minfo[39m: Route not found
+2021-11-28T18:53:42.068Z - [32minfo[39m: Database is up and running
+2021-11-28T18:53:42.072Z - [32minfo[39m: truck is being created
+2021-11-28T18:53:42.072Z - [32minfo[39m: undefined
+2021-11-28T18:53:42.074Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:53:42.080Z - [32minfo[39m: Database is up and running
+2021-11-28T18:53:42.082Z - [32minfo[39m: truck is being created
+2021-11-28T18:53:42.082Z - [32minfo[39m: undefined
+2021-11-28T18:53:42.082Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:53:42.086Z - [32minfo[39m: Database is up and running
+2021-11-28T18:53:42.087Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-28T18:53:42.087Z - [32minfo[39m: undefined
+2021-11-28T18:53:42.087Z - [32minfo[39m: truck info has been received
+2021-11-28T18:54:05.556Z - [32minfo[39m: Server Port: 3000
+2021-11-28T18:54:05.558Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T18:54:05.577Z - [32minfo[39m: Route not found
+2021-11-28T18:54:05.601Z - [32minfo[39m: Database is up and running
+2021-11-28T18:54:05.606Z - [32minfo[39m: truck is being created
+2021-11-28T18:54:05.607Z - [32minfo[39m: undefined
+2021-11-28T18:54:05.609Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:54:05.614Z - [32minfo[39m: Database is up and running
+2021-11-28T18:54:05.615Z - [32minfo[39m: truck is being created
+2021-11-28T18:54:05.615Z - [32minfo[39m: undefined
+2021-11-28T18:54:05.616Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:54:05.619Z - [32minfo[39m: Database is up and running
+2021-11-28T18:54:05.620Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-28T18:54:05.620Z - [32minfo[39m: undefined
+2021-11-28T18:54:05.620Z - [32minfo[39m: truck info has been received
+2021-11-28T18:55:26.405Z - [32minfo[39m: Server Port: 3000
+2021-11-28T18:55:26.407Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T18:55:26.427Z - [32minfo[39m: Route not found
+2021-11-28T18:55:26.453Z - [32minfo[39m: Database is up and running
+2021-11-28T18:55:26.458Z - [32minfo[39m: truck is being created
+2021-11-28T18:55:26.458Z - [32minfo[39m: undefined
+2021-11-28T18:55:26.459Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:55:26.464Z - [32minfo[39m: Database is up and running
+2021-11-28T18:55:26.466Z - [32minfo[39m: truck is being created
+2021-11-28T18:55:26.466Z - [32minfo[39m: undefined
+2021-11-28T18:55:26.467Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:55:26.470Z - [32minfo[39m: Database is up and running
+2021-11-28T18:55:26.471Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-28T18:55:26.471Z - [32minfo[39m: undefined
+2021-11-28T18:55:26.472Z - [32minfo[39m: truck info has been received
+2021-11-28T18:56:09.189Z - [32minfo[39m: Server Port: 3000
+2021-11-28T18:56:09.190Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T18:56:09.213Z - [32minfo[39m: Route not found
+2021-11-28T18:56:09.243Z - [32minfo[39m: Database is up and running
+2021-11-28T18:56:09.248Z - [32minfo[39m: truck is being created
+2021-11-28T18:56:09.248Z - [32minfo[39m: undefined
+2021-11-28T18:56:09.250Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:56:09.256Z - [32minfo[39m: Database is up and running
+2021-11-28T18:56:09.257Z - [32minfo[39m: truck is being created
+2021-11-28T18:56:09.257Z - [32minfo[39m: undefined
+2021-11-28T18:56:09.257Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:56:09.263Z - [32minfo[39m: Database is up and running
+2021-11-28T18:56:09.264Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-28T18:56:09.264Z - [32minfo[39m: undefined
+2021-11-28T18:56:09.265Z - [32minfo[39m: truck info has been received
+2021-11-28T18:56:42.178Z - [32minfo[39m: Server Port: 3000
+2021-11-28T18:56:42.180Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T18:56:42.199Z - [32minfo[39m: Route not found
+2021-11-28T18:56:42.222Z - [32minfo[39m: Database is up and running
+2021-11-28T18:56:42.227Z - [32minfo[39m: truck is being created
+2021-11-28T18:56:42.227Z - [32minfo[39m: undefined
+2021-11-28T18:56:42.229Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:56:42.235Z - [32minfo[39m: Database is up and running
+2021-11-28T18:56:42.236Z - [32minfo[39m: truck is being created
+2021-11-28T18:56:42.236Z - [32minfo[39m: undefined
+2021-11-28T18:56:42.237Z - [32minfo[39m: A new truck has been created
+2021-11-28T18:56:42.242Z - [32minfo[39m: Database is up and running
+2021-11-28T18:56:42.243Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-28T18:56:42.243Z - [32minfo[39m: undefined
+2021-11-28T18:56:42.243Z - [32minfo[39m: truck info has been received
+2021-11-28T19:01:19.819Z - [32minfo[39m: Server Port: 3000
+2021-11-28T19:01:19.821Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T19:01:19.842Z - [32minfo[39m: Route not found
+2021-11-28T19:01:19.866Z - [32minfo[39m: Database is up and running
+2021-11-28T19:01:19.870Z - [32minfo[39m: truck is being created
+2021-11-28T19:01:19.870Z - [32minfo[39m: undefined
+2021-11-28T19:01:19.873Z - [32minfo[39m: A new truck has been created
+2021-11-28T19:01:19.878Z - [32minfo[39m: Database is up and running
+2021-11-28T19:01:19.879Z - [32minfo[39m: truck is being created
+2021-11-28T19:01:19.879Z - [32minfo[39m: undefined
+2021-11-28T19:01:19.880Z - [32minfo[39m: A new truck has been created
+2021-11-28T19:01:19.887Z - [32minfo[39m: Database is up and running
+2021-11-28T19:01:19.887Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-28T19:01:19.887Z - [32minfo[39m: undefined
+2021-11-28T19:01:19.888Z - [32minfo[39m: truck info has been received
+2021-11-28T19:02:46.516Z - [32minfo[39m: Server Port: 3000
+2021-11-28T19:02:46.518Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T19:02:46.537Z - [32minfo[39m: Route not found
+2021-11-28T19:02:46.562Z - [32minfo[39m: Database is up and running
+2021-11-28T19:02:46.566Z - [32minfo[39m: truck is being created
+2021-11-28T19:02:46.566Z - [32minfo[39m: undefined
+2021-11-28T19:02:46.568Z - [32minfo[39m: A new truck has been created
+2021-11-28T19:02:46.573Z - [32minfo[39m: Database is up and running
+2021-11-28T19:02:46.575Z - [32minfo[39m: truck is being created
+2021-11-28T19:02:46.575Z - [32minfo[39m: undefined
+2021-11-28T19:02:46.576Z - [32minfo[39m: A new truck has been created
+2021-11-28T19:02:46.581Z - [32minfo[39m: Database is up and running
+2021-11-28T19:02:46.582Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-28T19:02:46.582Z - [32minfo[39m: undefined
+2021-11-28T19:02:46.583Z - [32minfo[39m: truck info has been received
+2021-11-28T19:03:27.390Z - [32minfo[39m: Server Port: 3000
+2021-11-28T19:03:27.391Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-28T19:03:27.412Z - [32minfo[39m: Route not found
+2021-11-28T19:03:27.437Z - [32minfo[39m: Database is up and running
+2021-11-28T19:03:27.442Z - [32minfo[39m: truck is being created
+2021-11-28T19:03:27.443Z - [32minfo[39m: undefined
+2021-11-28T19:03:27.445Z - [32minfo[39m: A new truck has been created
+2021-11-28T19:03:27.451Z - [32minfo[39m: Database is up and running
+2021-11-28T19:03:27.452Z - [32minfo[39m: truck is being created
+2021-11-28T19:03:27.452Z - [32minfo[39m: undefined
+2021-11-28T19:03:27.452Z - [32minfo[39m: A new truck has been created
+2021-11-28T19:03:27.458Z - [32minfo[39m: Database is up and running
+2021-11-28T19:03:27.459Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-28T19:03:27.459Z - [32minfo[39m: undefined
+2021-11-28T19:03:27.460Z - [32minfo[39m: truck info has been received
+2021-11-29T02:35:16.186Z - [32minfo[39m: Server Port: 3000
+2021-11-29T02:35:16.189Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T02:35:16.230Z - [32minfo[39m: Route not found
+2021-11-29T02:35:16.276Z - [32minfo[39m: Database is up and running
+2021-11-29T02:35:16.286Z - [32minfo[39m: truck is being created
+2021-11-29T02:35:16.287Z - [32minfo[39m: undefined
+2021-11-29T02:35:16.290Z - [32minfo[39m: A new truck has been created
+2021-11-29T02:35:16.300Z - [32minfo[39m: Database is up and running
+2021-11-29T02:35:16.304Z - [32minfo[39m: truck is being created
+2021-11-29T02:35:16.304Z - [32minfo[39m: undefined
+2021-11-29T02:35:16.305Z - [32minfo[39m: A new truck has been created
+2021-11-29T02:35:16.317Z - [32minfo[39m: Database is up and running
+2021-11-29T02:35:16.318Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T02:35:16.319Z - [32minfo[39m: undefined
+2021-11-29T02:35:16.319Z - [32minfo[39m: truck info has been received
+2021-11-29T02:37:26.008Z - [32minfo[39m: Server Port: 3000
+2021-11-29T02:37:26.011Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T02:37:26.044Z - [32minfo[39m: Route not found
+2021-11-29T02:37:26.079Z - [32minfo[39m: Database is up and running
+2021-11-29T02:37:26.087Z - [32minfo[39m: truck is being created
+2021-11-29T02:37:26.087Z - [32minfo[39m: undefined
+2021-11-29T02:37:26.090Z - [32minfo[39m: Cannot destructure property 'dataValues' of '(intermediate value)' as it is undefined.
+2021-11-29T02:37:26.113Z - [32minfo[39m: Database is up and running
+2021-11-29T02:37:26.116Z - [32minfo[39m: truck is being created
+2021-11-29T02:37:26.116Z - [32minfo[39m: undefined
+2021-11-29T02:37:26.117Z - [32minfo[39m: Cannot destructure property 'dataValues' of '(intermediate value)' as it is undefined.
+2021-11-29T02:37:26.128Z - [32minfo[39m: Database is up and running
+2021-11-29T02:37:26.129Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T02:37:26.130Z - [32minfo[39m: undefined
+2021-11-29T02:37:26.131Z - [32minfo[39m: truck info has been received
+2021-11-29T02:44:28.015Z - [32minfo[39m: Server Port: 3000
+2021-11-29T02:44:28.018Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T02:44:28.049Z - [32minfo[39m: Route not found
+2021-11-29T02:44:28.087Z - [32minfo[39m: Database is up and running
+2021-11-29T02:44:28.094Z - [32minfo[39m: truck is being created
+2021-11-29T02:44:28.094Z - [32minfo[39m: undefined
+2021-11-29T02:44:28.098Z - [32minfo[39m: A new truck has been created
+2021-11-29T02:44:28.107Z - [32minfo[39m: Database is up and running
+2021-11-29T02:44:28.110Z - [32minfo[39m: truck is being created
+2021-11-29T02:44:28.110Z - [32minfo[39m: undefined
+2021-11-29T02:44:28.111Z - [32minfo[39m: A new truck has been created
+2021-11-29T02:44:28.123Z - [32minfo[39m: Database is up and running
+2021-11-29T02:44:28.125Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T02:44:28.125Z - [32minfo[39m: undefined
+2021-11-29T02:44:28.126Z - [32minfo[39m: truck info has been received
+2021-11-29T02:50:09.001Z - [32minfo[39m: Server Port: 3000
+2021-11-29T02:50:09.005Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T02:50:09.042Z - [32minfo[39m: Route not found
+2021-11-29T02:50:09.172Z - [32minfo[39m: Database is down
+2021-11-29T02:50:09.173Z - [32minfo[39m: Error connecting to the database
+2021-11-29T02:50:09.225Z - [32minfo[39m: Database is down
+2021-11-29T02:50:09.226Z - [32minfo[39m: Error connecting to the database
+2021-11-29T02:50:09.253Z - [32minfo[39m: Database is down
+2021-11-29T02:50:09.253Z - [32minfo[39m: Error connecting to the database
+2021-11-29T02:59:06.070Z - [32minfo[39m: Server Port: 3000
+2021-11-29T02:59:06.074Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T04:13:06.155Z - [32minfo[39m: Server Port: 3000
+2021-11-29T04:13:06.157Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T04:13:19.471Z - [32minfo[39m: Database is up and running
+2021-11-29T04:13:19.475Z - [32minfo[39m: last 5 locations for truckId 1
+2021-11-29T04:13:19.476Z - [32minfo[39m: undefined
+2021-11-29T04:13:19.488Z - [32minfo[39m: last 5 locations of truckId 1 has been retrieved
+2021-11-29T04:13:41.143Z - [32minfo[39m: Database is up and running
+2021-11-29T04:13:41.146Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T04:13:41.147Z - [32minfo[39m: undefined
+2021-11-29T04:13:41.164Z - [32minfo[39m: truck info has been received
+2021-11-29T05:21:32.972Z - [32minfo[39m: Server Port: 3000
+2021-11-29T05:21:32.974Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T05:30:08.843Z - [32minfo[39m: Server Port: 3000
+2021-11-29T05:30:08.845Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T05:30:20.490Z - [32minfo[39m: Server Port: 3000
+2021-11-29T05:30:20.492Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T05:31:36.850Z - [32minfo[39m: Server Port: 3000
+2021-11-29T05:31:36.851Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T05:31:36.873Z - [32minfo[39m: Route not found
+2021-11-29T05:31:36.937Z - [32minfo[39m: Database is down
+2021-11-29T05:31:36.938Z - [32minfo[39m: Error connecting to the database
+2021-11-29T05:31:36.960Z - [32minfo[39m: Database is down
+2021-11-29T05:31:36.960Z - [32minfo[39m: Error connecting to the database
+2021-11-29T05:31:36.975Z - [32minfo[39m: Database is down
+2021-11-29T05:31:36.976Z - [32minfo[39m: Error connecting to the database
+2021-11-29T05:38:48.892Z - [32minfo[39m: Server Port: 3000
+2021-11-29T05:38:48.894Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T05:38:48.917Z - [32minfo[39m: Route not found
+2021-11-29T05:38:48.990Z - [32minfo[39m: Database is up and running
+2021-11-29T05:38:48.994Z - [32minfo[39m: truck is being created
+2021-11-29T05:38:48.994Z - [32minfo[39m: undefined
+2021-11-29T05:38:49.019Z - [32minfo[39m: A new truck has been created
+2021-11-29T05:38:49.026Z - [32minfo[39m: Database is up and running
+2021-11-29T05:38:49.027Z - [32minfo[39m: truck is being created
+2021-11-29T05:38:49.028Z - [32minfo[39m: undefined
+2021-11-29T05:38:49.038Z - [32minfo[39m: A new truck has been created
+2021-11-29T05:38:49.047Z - [32minfo[39m: Database is up and running
+2021-11-29T05:38:49.048Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T05:38:49.048Z - [32minfo[39m: undefined
+2021-11-29T05:38:49.060Z - [32minfo[39m: truck info has been received
+2021-11-29T05:41:03.543Z - [32minfo[39m: Server Port: 3000
+2021-11-29T05:41:03.545Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T05:44:14.673Z - [32minfo[39m: Server Port: 3000
+2021-11-29T05:44:14.675Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T05:44:14.698Z - [32minfo[39m: Route not found
+2021-11-29T05:44:14.770Z - [32minfo[39m: Database is up and running
+2021-11-29T05:44:14.774Z - [32minfo[39m: truck is being created
+2021-11-29T05:44:14.774Z - [32minfo[39m: undefined
+2021-11-29T05:44:14.795Z - [32minfo[39m: Validation error
+2021-11-29T05:44:14.808Z - [32minfo[39m: Database is up and running
+2021-11-29T05:44:14.809Z - [32minfo[39m: truck is being created
+2021-11-29T05:44:14.810Z - [32minfo[39m: undefined
+2021-11-29T05:44:14.818Z - [32minfo[39m: Validation error
+2021-11-29T05:44:14.827Z - [32minfo[39m: Database is up and running
+2021-11-29T05:44:14.827Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T05:44:14.828Z - [32minfo[39m: undefined
+2021-11-29T05:44:14.838Z - [32minfo[39m: truck info has been received
+2021-11-29T06:10:10.505Z - [32minfo[39m: Server Port: 3000
+2021-11-29T06:10:10.507Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T06:10:10.526Z - [32minfo[39m: Route not found
+2021-11-29T06:10:10.596Z - [32minfo[39m: Database is up and running
+2021-11-29T06:10:10.601Z - [32minfo[39m: truck is being created
+2021-11-29T06:10:10.601Z - [32minfo[39m: undefined
+2021-11-29T06:10:10.623Z - [32minfo[39m: Validation error
+2021-11-29T06:10:10.637Z - [32minfo[39m: Database is up and running
+2021-11-29T06:10:10.639Z - [32minfo[39m: truck is being created
+2021-11-29T06:10:10.639Z - [32minfo[39m: undefined
+2021-11-29T06:10:10.648Z - [32minfo[39m: Validation error
+2021-11-29T06:10:10.657Z - [32minfo[39m: Database is up and running
+2021-11-29T06:10:10.658Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T06:10:10.658Z - [32minfo[39m: undefined
+2021-11-29T06:10:10.670Z - [32minfo[39m: truck info has been received
+2021-11-29T07:03:49.817Z - [32minfo[39m: Server Port: 3000
+2021-11-29T07:03:49.820Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T07:06:12.577Z - [32minfo[39m: Server Port: 3000
+2021-11-29T07:06:12.579Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T07:06:24.922Z - [32minfo[39m: Database is up and running
+2021-11-29T07:06:24.926Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T07:06:24.927Z - [32minfo[39m: undefined
+2021-11-29T07:06:24.944Z - [32minfo[39m: truck info has been received
+2021-11-29T07:16:37.249Z - [32minfo[39m: Server Port: 3000
+2021-11-29T07:16:37.251Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T07:16:37.281Z - [32minfo[39m: Route not found
+2021-11-29T07:16:37.344Z - [32minfo[39m: Database is up and running
+2021-11-29T07:16:37.349Z - [32minfo[39m: truck is being created
+2021-11-29T07:16:37.349Z - [32minfo[39m: undefined
+2021-11-29T07:16:37.372Z - [32minfo[39m: A new truck has been created
+2021-11-29T07:16:37.382Z - [32minfo[39m: Database is up and running
+2021-11-29T07:16:37.383Z - [32minfo[39m: truck is being created
+2021-11-29T07:16:37.384Z - [32minfo[39m: undefined
+2021-11-29T07:16:37.396Z - [32minfo[39m: Validation error
+2021-11-29T07:23:58.885Z - [32minfo[39m: Server Port: 3000
+2021-11-29T07:23:58.887Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T07:23:58.915Z - [32minfo[39m: Route not found
+2021-11-29T07:23:58.947Z - [32minfo[39m: Cannot read property 'authenticate' of undefined
+2021-11-29T07:23:58.959Z - [32minfo[39m: Cannot read property 'authenticate' of undefined
+2021-11-29T07:35:57.674Z - [32minfo[39m: Server Port: 3000
+2021-11-29T07:35:57.676Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T07:35:57.704Z - [32minfo[39m: Route not found
+2021-11-29T07:35:57.735Z - [32minfo[39m: Cannot read property 'authenticate' of undefined
+2021-11-29T07:35:57.747Z - [32minfo[39m: Cannot read property 'authenticate' of undefined
+2021-11-29T07:52:03.078Z - [32minfo[39m: Server Port: 3000
+2021-11-29T07:52:03.080Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T07:53:17.842Z - [32minfo[39m: Database is up and running
+2021-11-29T07:53:17.845Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T07:53:17.845Z - [32minfo[39m: undefined
+2021-11-29T07:53:17.856Z - [32minfo[39m: truck info has been received
+2021-11-29T07:55:22.996Z - [32minfo[39m: Server Port: 3000
+2021-11-29T07:55:22.998Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T07:56:03.926Z - [32minfo[39m: Server Port: 3000
+2021-11-29T07:56:03.928Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T07:56:03.951Z - [32minfo[39m: Route not found
+2021-11-29T07:56:04.021Z - [32minfo[39m: Database is up and running
+2021-11-29T07:56:04.026Z - [32minfo[39m: truck is being created
+2021-11-29T07:56:04.026Z - [32minfo[39m: undefined
+2021-11-29T07:56:04.050Z - [32minfo[39m: A new truck has been created
+2021-11-29T07:56:04.059Z - [32minfo[39m: Database is up and running
+2021-11-29T07:56:04.061Z - [32minfo[39m: truck is being created
+2021-11-29T07:56:04.061Z - [32minfo[39m: undefined
+2021-11-29T07:56:04.072Z - [32minfo[39m: Validation error
+2021-11-29T08:08:01.936Z - [32minfo[39m: Server Port: 3000
+2021-11-29T08:08:01.938Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T08:08:01.961Z - [32minfo[39m: Route not found
+2021-11-29T08:08:02.033Z - [32minfo[39m: Database is up and running
+2021-11-29T08:08:02.037Z - [32minfo[39m: truck is being created
+2021-11-29T08:08:02.038Z - [32minfo[39m: undefined
+2021-11-29T08:08:02.060Z - [32minfo[39m: A new truck has been created
+2021-11-29T08:08:02.070Z - [32minfo[39m: Database is up and running
+2021-11-29T08:08:02.071Z - [32minfo[39m: truck is being created
+2021-11-29T08:08:02.072Z - [32minfo[39m: undefined
+2021-11-29T08:08:02.082Z - [32minfo[39m: Validation error
+2021-11-29T08:10:25.273Z - [32minfo[39m: Server Port: 3000
+2021-11-29T08:10:25.275Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T08:10:25.299Z - [32minfo[39m: Route not found
+2021-11-29T08:10:25.372Z - [32minfo[39m: Database is up and running
+2021-11-29T08:10:25.376Z - [32minfo[39m: truck is being created
+2021-11-29T08:10:25.376Z - [32minfo[39m: undefined
+2021-11-29T08:10:25.400Z - [32minfo[39m: A new truck has been created
+2021-11-29T08:10:25.410Z - [32minfo[39m: Database is up and running
+2021-11-29T08:10:25.412Z - [32minfo[39m: truck is being created
+2021-11-29T08:10:25.412Z - [32minfo[39m: undefined
+2021-11-29T08:10:25.422Z - [32minfo[39m: Validation error
+2021-11-29T08:13:40.340Z - [32minfo[39m: Server Port: 3000
+2021-11-29T08:13:40.342Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T08:13:40.364Z - [32minfo[39m: Route not found
+2021-11-29T08:13:40.441Z - [32minfo[39m: Database is up and running
+2021-11-29T08:13:40.445Z - [32minfo[39m: truck is being created
+2021-11-29T08:13:40.445Z - [32minfo[39m: undefined
+2021-11-29T08:13:40.470Z - [32minfo[39m: A new truck has been created
+2021-11-29T08:13:40.478Z - [32minfo[39m: Database is up and running
+2021-11-29T08:13:40.480Z - [32minfo[39m: truck is being created
+2021-11-29T08:13:40.480Z - [32minfo[39m: undefined
+2021-11-29T08:13:40.490Z - [32minfo[39m: Validation error
+2021-11-29T08:16:16.886Z - [32minfo[39m: Server Port: 3000
+2021-11-29T08:16:16.888Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T08:16:16.912Z - [32minfo[39m: Route not found
+2021-11-29T08:16:16.984Z - [32minfo[39m: Database is up and running
+2021-11-29T08:16:16.988Z - [32minfo[39m: truck is being created
+2021-11-29T08:16:16.989Z - [32minfo[39m: undefined
+2021-11-29T08:16:17.012Z - [32minfo[39m: A new truck has been created
+2021-11-29T08:16:17.020Z - [32minfo[39m: Database is up and running
+2021-11-29T08:16:17.021Z - [32minfo[39m: truck is being created
+2021-11-29T08:16:17.021Z - [32minfo[39m: undefined
+2021-11-29T08:16:17.032Z - [32minfo[39m: A new truck has been created
+2021-11-29T08:18:27.803Z - [32minfo[39m: Server Port: 3000
+2021-11-29T08:18:27.805Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T08:18:44.882Z - [32minfo[39m: Database is up and running
+2021-11-29T08:18:44.888Z - [32minfo[39m: truck is being created
+2021-11-29T08:18:44.889Z - [32minfo[39m: undefined
+2021-11-29T08:18:44.917Z - [32minfo[39m: A new truck has been created
+2021-11-29T08:18:47.164Z - [32minfo[39m: Database is up and running
+2021-11-29T08:18:47.166Z - [32minfo[39m: truck is being created
+2021-11-29T08:18:47.166Z - [32minfo[39m: undefined
+2021-11-29T08:18:47.183Z - [32minfo[39m: Validation error
+2021-11-29T08:20:53.945Z - [32minfo[39m: Server Port: 3000
+2021-11-29T08:20:53.947Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T08:21:03.341Z - [32minfo[39m: Database is up and running
+2021-11-29T08:21:03.346Z - [32minfo[39m: truck is being created
+2021-11-29T08:21:03.347Z - [32minfo[39m: undefined
+2021-11-29T08:21:03.375Z - [32minfo[39m: Validation error
+2021-11-29T08:23:45.096Z - [32minfo[39m: Server Port: 3000
+2021-11-29T08:23:45.097Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T08:23:45.122Z - [32minfo[39m: Route not found
+2021-11-29T08:23:45.194Z - [32minfo[39m: Database is up and running
+2021-11-29T08:23:45.199Z - [32minfo[39m: truck is being created
+2021-11-29T08:23:45.199Z - [32minfo[39m: undefined
+2021-11-29T08:23:45.221Z - [32minfo[39m: A new truck has been created
+2021-11-29T08:23:45.229Z - [32minfo[39m: Database is up and running
+2021-11-29T08:23:45.230Z - [32minfo[39m: truck is being created
+2021-11-29T08:23:45.230Z - [32minfo[39m: undefined
+2021-11-29T08:23:45.241Z - [32minfo[39m: A new truck has been created
+2021-11-29T08:24:13.202Z - [32minfo[39m: Server Port: 3000
+2021-11-29T08:24:13.204Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T08:24:13.227Z - [32minfo[39m: Route not found
+2021-11-29T08:24:13.302Z - [32minfo[39m: Database is up and running
+2021-11-29T08:24:13.306Z - [32minfo[39m: truck is being created
+2021-11-29T08:24:13.307Z - [32minfo[39m: undefined
+2021-11-29T08:24:13.333Z - [32minfo[39m: A new truck has been created
+2021-11-29T08:24:13.340Z - [32minfo[39m: Database is up and running
+2021-11-29T08:24:13.342Z - [32minfo[39m: truck is being created
+2021-11-29T08:24:13.342Z - [32minfo[39m: undefined
+2021-11-29T08:24:13.346Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T08:25:26.772Z - [32minfo[39m: Server Port: 3000
+2021-11-29T08:25:26.773Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T08:25:26.793Z - [32minfo[39m: Route not found
+2021-11-29T08:25:26.869Z - [32minfo[39m: Database is up and running
+2021-11-29T08:25:26.873Z - [32minfo[39m: truck is being created
+2021-11-29T08:25:26.874Z - [32minfo[39m: undefined
+2021-11-29T08:25:26.897Z - [32minfo[39m: A new truck has been created
+2021-11-29T08:25:26.904Z - [32minfo[39m: Database is up and running
+2021-11-29T08:25:26.906Z - [32minfo[39m: truck is being created
+2021-11-29T08:25:26.906Z - [32minfo[39m: undefined
+2021-11-29T08:25:26.910Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T15:06:42.051Z - [32minfo[39m: Server Port: 3000
+2021-11-29T15:06:42.053Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T15:06:42.079Z - [32minfo[39m: Route not found
+2021-11-29T15:06:42.156Z - [32minfo[39m: Database is up and running
+2021-11-29T15:06:42.161Z - [32minfo[39m: truck is being created
+2021-11-29T15:06:42.161Z - [32minfo[39m: undefined
+2021-11-29T15:06:42.191Z - [32minfo[39m: A new truck has been created
+2021-11-29T15:06:42.199Z - [32minfo[39m: Database is up and running
+2021-11-29T15:06:42.201Z - [32minfo[39m: truck is being created
+2021-11-29T15:06:42.201Z - [32minfo[39m: undefined
+2021-11-29T15:06:42.205Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T15:06:42.212Z - [32minfo[39m: Database is up and running
+2021-11-29T15:06:42.213Z - [32minfo[39m: Route not found
+2021-11-29T15:10:42.466Z - [32minfo[39m: Server Port: 3000
+2021-11-29T15:10:42.468Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T15:10:42.490Z - [32minfo[39m: Route not found
+2021-11-29T15:10:42.564Z - [32minfo[39m: Database is up and running
+2021-11-29T15:10:42.569Z - [32minfo[39m: truck is being created
+2021-11-29T15:10:42.569Z - [32minfo[39m: undefined
+2021-11-29T15:10:42.594Z - [32minfo[39m: A new truck has been created
+2021-11-29T15:10:42.605Z - [32minfo[39m: Database is up and running
+2021-11-29T15:10:42.607Z - [32minfo[39m: truck is being created
+2021-11-29T15:10:42.607Z - [32minfo[39m: undefined
+2021-11-29T15:10:42.612Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T15:10:42.619Z - [32minfo[39m: Database is up and running
+2021-11-29T15:10:42.620Z - [32minfo[39m: Route not found
+2021-11-29T15:12:11.738Z - [32minfo[39m: Server Port: 3000
+2021-11-29T15:12:11.740Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T15:12:11.761Z - [32minfo[39m: Route not found
+2021-11-29T15:12:11.833Z - [32minfo[39m: Database is up and running
+2021-11-29T15:12:11.837Z - [32minfo[39m: truck is being created
+2021-11-29T15:12:11.837Z - [32minfo[39m: undefined
+2021-11-29T15:12:11.863Z - [32minfo[39m: A new truck has been created
+2021-11-29T15:12:11.873Z - [32minfo[39m: Database is up and running
+2021-11-29T15:12:11.875Z - [32minfo[39m: truck is being created
+2021-11-29T15:12:11.875Z - [32minfo[39m: undefined
+2021-11-29T15:12:11.880Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T15:12:11.887Z - [32minfo[39m: Database is up and running
+2021-11-29T15:12:11.889Z - [32minfo[39m: truck is being updated
+2021-11-29T15:12:11.889Z - [32minfo[39m: undefined
+2021-11-29T15:12:11.901Z - [32minfo[39m: Error while updating the truck
+2021-11-29T15:16:01.981Z - [32minfo[39m: Server Port: 3000
+2021-11-29T15:16:01.983Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T15:16:04.602Z - [32minfo[39m: Database is up and running
+2021-11-29T15:16:04.608Z - [32minfo[39m: truck is being updated
+2021-11-29T15:16:04.608Z - [32minfo[39m: undefined
+2021-11-29T15:16:04.632Z - [32minfo[39m: Error while updating the truck
+2021-11-29T15:17:09.987Z - [32minfo[39m: Database is up and running
+2021-11-29T15:17:09.989Z - [32minfo[39m: validation error.
+2021-11-29T15:17:16.580Z - [32minfo[39m: Database is up and running
+2021-11-29T15:17:16.583Z - [32minfo[39m: truck is being updated
+2021-11-29T15:17:16.584Z - [32minfo[39m: undefined
+2021-11-29T15:17:16.592Z - [32minfo[39m: Error while updating the truck
+2021-11-29T15:17:46.460Z - [32minfo[39m: Server Port: 3000
+2021-11-29T15:17:46.462Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T15:20:49.973Z - [32minfo[39m: Database is up and running
+2021-11-29T15:20:49.979Z - [32minfo[39m: truck is being updated
+2021-11-29T15:20:49.980Z - [32minfo[39m: undefined
+2021-11-29T15:20:49.994Z - [32minfo[39m: truck did not update
+2021-11-29T15:21:29.442Z - [32minfo[39m: Server Port: 3000
+2021-11-29T15:21:29.444Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T15:21:29.465Z - [32minfo[39m: Route not found
+2021-11-29T15:21:29.540Z - [32minfo[39m: Database is up and running
+2021-11-29T15:21:29.544Z - [32minfo[39m: truck is being created
+2021-11-29T15:21:29.545Z - [32minfo[39m: undefined
+2021-11-29T15:21:29.569Z - [32minfo[39m: A new truck has been created
+2021-11-29T15:21:29.578Z - [32minfo[39m: Database is up and running
+2021-11-29T15:21:29.579Z - [32minfo[39m: truck is being created
+2021-11-29T15:21:29.580Z - [32minfo[39m: undefined
+2021-11-29T15:21:29.583Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T15:21:29.590Z - [32minfo[39m: Database is up and running
+2021-11-29T15:21:29.591Z - [32minfo[39m: truck is being updated
+2021-11-29T15:21:29.591Z - [32minfo[39m: undefined
+2021-11-29T15:21:29.602Z - [32minfo[39m: truck data has been updated
+2021-11-29T15:26:54.832Z - [32minfo[39m: Server Port: 3000
+2021-11-29T15:26:54.834Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T15:26:54.854Z - [32minfo[39m: Route not found
+2021-11-29T15:26:54.928Z - [32minfo[39m: Database is up and running
+2021-11-29T15:26:54.932Z - [32minfo[39m: truck is being created
+2021-11-29T15:26:54.932Z - [32minfo[39m: undefined
+2021-11-29T15:26:54.955Z - [32minfo[39m: A new truck has been created
+2021-11-29T15:26:54.963Z - [32minfo[39m: Database is up and running
+2021-11-29T15:26:54.964Z - [32minfo[39m: truck is being created
+2021-11-29T15:26:54.964Z - [32minfo[39m: undefined
+2021-11-29T15:26:54.968Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T15:26:54.975Z - [32minfo[39m: Database is up and running
+2021-11-29T15:26:54.976Z - [32minfo[39m: truck is being updated
+2021-11-29T15:26:54.976Z - [32minfo[39m: undefined
+2021-11-29T15:26:54.989Z - [32minfo[39m: truck data has been updated
+2021-11-29T15:26:54.997Z - [32minfo[39m: Database is up and running
+2021-11-29T15:26:54.998Z - [32minfo[39m: truck is being updated
+2021-11-29T15:26:54.998Z - [32minfo[39m: undefined
+2021-11-29T15:26:55.001Z - [32minfo[39m: truck did not update
+2021-11-29T15:28:37.502Z - [32minfo[39m: Server Port: 3000
+2021-11-29T15:28:37.504Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T15:28:37.522Z - [32minfo[39m: Route not found
+2021-11-29T15:28:37.594Z - [32minfo[39m: Database is up and running
+2021-11-29T15:28:37.598Z - [32minfo[39m: truck is being created
+2021-11-29T15:28:37.598Z - [32minfo[39m: undefined
+2021-11-29T15:28:37.625Z - [32minfo[39m: A new truck has been created
+2021-11-29T15:28:37.633Z - [32minfo[39m: Database is up and running
+2021-11-29T15:28:37.634Z - [32minfo[39m: truck is being created
+2021-11-29T15:28:37.634Z - [32minfo[39m: undefined
+2021-11-29T15:28:37.638Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T15:28:37.644Z - [32minfo[39m: Database is up and running
+2021-11-29T15:28:37.646Z - [32minfo[39m: truck is being updated
+2021-11-29T15:28:37.646Z - [32minfo[39m: undefined
+2021-11-29T15:28:37.656Z - [32minfo[39m: truck data has been updated
+2021-11-29T15:28:37.662Z - [32minfo[39m: Database is up and running
+2021-11-29T15:28:37.663Z - [32minfo[39m: truck is being updated
+2021-11-29T15:28:37.663Z - [32minfo[39m: undefined
+2021-11-29T15:28:37.666Z - [32minfo[39m: truck did not update
+2021-11-29T15:28:37.672Z - [32minfo[39m: Database is up and running
+2021-11-29T15:28:37.673Z - [32minfo[39m: validation error.
+2021-11-29T15:33:42.635Z - [32minfo[39m: Server Port: 3000
+2021-11-29T15:33:42.637Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T15:33:42.656Z - [32minfo[39m: Route not found
+2021-11-29T15:33:42.731Z - [32minfo[39m: Database is up and running
+2021-11-29T15:33:42.735Z - [32minfo[39m: truck is being created
+2021-11-29T15:33:42.736Z - [32minfo[39m: undefined
+2021-11-29T15:33:42.759Z - [32minfo[39m: A new truck has been created
+2021-11-29T15:33:42.767Z - [32minfo[39m: Database is up and running
+2021-11-29T15:33:42.768Z - [32minfo[39m: truck is being created
+2021-11-29T15:33:42.768Z - [32minfo[39m: undefined
+2021-11-29T15:33:42.772Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T15:33:42.779Z - [32minfo[39m: Database is up and running
+2021-11-29T15:33:42.781Z - [32minfo[39m: truck is being updated
+2021-11-29T15:33:42.781Z - [32minfo[39m: undefined
+2021-11-29T15:33:42.793Z - [32minfo[39m: truck data has been updated
+2021-11-29T15:33:42.800Z - [32minfo[39m: Database is up and running
+2021-11-29T15:33:42.801Z - [32minfo[39m: truck is being updated
+2021-11-29T15:33:42.802Z - [32minfo[39m: undefined
+2021-11-29T15:33:42.804Z - [32minfo[39m: truck did not update
+2021-11-29T15:33:42.810Z - [32minfo[39m: Database is up and running
+2021-11-29T15:33:42.811Z - [32minfo[39m: validation error.
+2021-11-29T15:34:16.529Z - [32minfo[39m: Server Port: 3000
+2021-11-29T15:34:16.530Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T15:34:16.552Z - [32minfo[39m: Route not found
+2021-11-29T15:34:16.624Z - [32minfo[39m: Database is up and running
+2021-11-29T15:34:16.628Z - [32minfo[39m: truck is being created
+2021-11-29T15:34:16.628Z - [32minfo[39m: undefined
+2021-11-29T15:34:16.651Z - [32minfo[39m: A new truck has been created
+2021-11-29T15:34:16.658Z - [32minfo[39m: Database is up and running
+2021-11-29T15:34:16.660Z - [32minfo[39m: truck is being created
+2021-11-29T15:34:16.660Z - [32minfo[39m: undefined
+2021-11-29T15:34:16.664Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T15:34:16.670Z - [32minfo[39m: Database is up and running
+2021-11-29T15:34:16.672Z - [32minfo[39m: truck is being updated
+2021-11-29T15:34:16.672Z - [32minfo[39m: undefined
+2021-11-29T15:34:16.682Z - [32minfo[39m: truck data has been updated
+2021-11-29T15:34:16.689Z - [32minfo[39m: Database is up and running
+2021-11-29T15:34:16.690Z - [32minfo[39m: truck is being updated
+2021-11-29T15:34:16.690Z - [32minfo[39m: undefined
+2021-11-29T15:34:16.693Z - [32minfo[39m: truck did not update
+2021-11-29T15:34:16.699Z - [32minfo[39m: Database is up and running
+2021-11-29T15:34:16.700Z - [32minfo[39m: validation error.
+2021-11-29T15:34:36.251Z - [32minfo[39m: Server Port: 3000
+2021-11-29T15:34:36.252Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T15:34:36.274Z - [32minfo[39m: Route not found
+2021-11-29T15:34:36.348Z - [32minfo[39m: Database is up and running
+2021-11-29T15:34:36.352Z - [32minfo[39m: truck is being created
+2021-11-29T15:34:36.352Z - [32minfo[39m: undefined
+2021-11-29T15:34:36.375Z - [32minfo[39m: A new truck has been created
+2021-11-29T15:34:36.383Z - [32minfo[39m: Database is up and running
+2021-11-29T15:34:36.384Z - [32minfo[39m: truck is being created
+2021-11-29T15:34:36.384Z - [32minfo[39m: undefined
+2021-11-29T15:34:36.388Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T15:34:36.394Z - [32minfo[39m: Database is up and running
+2021-11-29T15:34:36.396Z - [32minfo[39m: truck is being updated
+2021-11-29T15:34:36.396Z - [32minfo[39m: undefined
+2021-11-29T15:34:36.406Z - [32minfo[39m: truck data has been updated
+2021-11-29T15:34:36.413Z - [32minfo[39m: Database is up and running
+2021-11-29T15:34:36.414Z - [32minfo[39m: truck is being updated
+2021-11-29T15:34:36.414Z - [32minfo[39m: undefined
+2021-11-29T15:34:36.416Z - [32minfo[39m: truck did not update
+2021-11-29T15:34:36.423Z - [32minfo[39m: Database is up and running
+2021-11-29T15:34:36.424Z - [32minfo[39m: validation error.
+2021-11-29T16:11:27.469Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:11:27.470Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:11:27.494Z - [32minfo[39m: Route not found
+2021-11-29T16:11:27.574Z - [32minfo[39m: Database is up and running
+2021-11-29T16:11:27.578Z - [32minfo[39m: truck is being created
+2021-11-29T16:11:27.578Z - [32minfo[39m: undefined
+2021-11-29T16:11:27.603Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:11:27.610Z - [32minfo[39m: Database is up and running
+2021-11-29T16:11:27.611Z - [32minfo[39m: truck is being created
+2021-11-29T16:11:27.612Z - [32minfo[39m: undefined
+2021-11-29T16:11:27.615Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:11:27.621Z - [32minfo[39m: Database is up and running
+2021-11-29T16:11:27.623Z - [32minfo[39m: truck is being created
+2021-11-29T16:11:27.623Z - [32minfo[39m: undefined
+2021-11-29T16:11:27.626Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:11:27.632Z - [32minfo[39m: Database is up and running
+2021-11-29T16:11:27.634Z - [32minfo[39m: validation error.
+2021-11-29T16:11:27.646Z - [32minfo[39m: Database is up and running
+2021-11-29T16:11:27.647Z - [32minfo[39m: truck is being updated
+2021-11-29T16:11:27.648Z - [32minfo[39m: undefined
+2021-11-29T16:11:27.658Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:11:27.664Z - [32minfo[39m: Database is up and running
+2021-11-29T16:11:27.665Z - [32minfo[39m: truck is being updated
+2021-11-29T16:11:27.665Z - [32minfo[39m: undefined
+2021-11-29T16:11:27.668Z - [32minfo[39m: truck did not update
+2021-11-29T16:11:27.674Z - [32minfo[39m: Database is up and running
+2021-11-29T16:11:27.675Z - [32minfo[39m: validation error.
+2021-11-29T16:12:56.957Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:12:56.959Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:12:56.979Z - [32minfo[39m: Route not found
+2021-11-29T16:12:57.052Z - [32minfo[39m: Database is up and running
+2021-11-29T16:12:57.056Z - [32minfo[39m: truck is being created
+2021-11-29T16:12:57.056Z - [32minfo[39m: undefined
+2021-11-29T16:12:57.080Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:12:57.087Z - [32minfo[39m: Database is up and running
+2021-11-29T16:12:57.088Z - [32minfo[39m: truck is being created
+2021-11-29T16:12:57.088Z - [32minfo[39m: undefined
+2021-11-29T16:12:57.092Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:12:57.099Z - [32minfo[39m: Database is up and running
+2021-11-29T16:12:57.100Z - [32minfo[39m: truck is being created
+2021-11-29T16:12:57.100Z - [32minfo[39m: undefined
+2021-11-29T16:12:57.103Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:12:57.110Z - [32minfo[39m: Database is up and running
+2021-11-29T16:12:57.111Z - [32minfo[39m: validation error.
+2021-11-29T16:12:57.120Z - [32minfo[39m: Database is up and running
+2021-11-29T16:12:57.121Z - [32minfo[39m: truck is being updated
+2021-11-29T16:12:57.122Z - [32minfo[39m: undefined
+2021-11-29T16:12:57.131Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:12:57.137Z - [32minfo[39m: Database is up and running
+2021-11-29T16:12:57.138Z - [32minfo[39m: truck is being updated
+2021-11-29T16:12:57.138Z - [32minfo[39m: undefined
+2021-11-29T16:12:57.141Z - [32minfo[39m: truck did not update
+2021-11-29T16:12:57.147Z - [32minfo[39m: Database is up and running
+2021-11-29T16:12:57.148Z - [32minfo[39m: validation error.
+2021-11-29T16:14:07.632Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:14:07.634Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:14:07.656Z - [32minfo[39m: Route not found
+2021-11-29T16:14:07.733Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:07.737Z - [32minfo[39m: truck is being created
+2021-11-29T16:14:07.737Z - [32minfo[39m: undefined
+2021-11-29T16:14:07.759Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:14:07.767Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:07.768Z - [32minfo[39m: truck is being created
+2021-11-29T16:14:07.768Z - [32minfo[39m: undefined
+2021-11-29T16:14:07.773Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:14:07.779Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:07.780Z - [32minfo[39m: truck is being created
+2021-11-29T16:14:07.780Z - [32minfo[39m: undefined
+2021-11-29T16:14:07.783Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:14:07.789Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:07.790Z - [32minfo[39m: validation error.
+2021-11-29T16:14:07.800Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:07.801Z - [32minfo[39m: validation error.
+2021-11-29T16:14:07.810Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:07.811Z - [32minfo[39m: truck is being updated
+2021-11-29T16:14:07.811Z - [32minfo[39m: undefined
+2021-11-29T16:14:07.821Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:14:07.827Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:07.828Z - [32minfo[39m: truck is being updated
+2021-11-29T16:14:07.828Z - [32minfo[39m: undefined
+2021-11-29T16:14:07.831Z - [32minfo[39m: truck did not update
+2021-11-29T16:14:07.840Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:07.842Z - [32minfo[39m: validation error.
+2021-11-29T16:14:51.691Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:14:51.693Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:14:51.714Z - [32minfo[39m: Route not found
+2021-11-29T16:14:51.787Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:51.791Z - [32minfo[39m: truck is being created
+2021-11-29T16:14:51.791Z - [32minfo[39m: undefined
+2021-11-29T16:14:51.816Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:14:51.823Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:51.824Z - [32minfo[39m: truck is being created
+2021-11-29T16:14:51.824Z - [32minfo[39m: undefined
+2021-11-29T16:14:51.828Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:14:51.834Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:51.835Z - [32minfo[39m: truck is being created
+2021-11-29T16:14:51.835Z - [32minfo[39m: undefined
+2021-11-29T16:14:51.838Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:14:51.844Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:51.846Z - [32minfo[39m: validation error.
+2021-11-29T16:14:51.854Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:51.855Z - [32minfo[39m: validation error.
+2021-11-29T16:14:51.866Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:51.868Z - [32minfo[39m: truck is being updated
+2021-11-29T16:14:51.868Z - [32minfo[39m: undefined
+2021-11-29T16:14:51.878Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:14:51.884Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:51.885Z - [32minfo[39m: truck is being updated
+2021-11-29T16:14:51.886Z - [32minfo[39m: undefined
+2021-11-29T16:14:51.890Z - [32minfo[39m: truck did not update
+2021-11-29T16:14:51.896Z - [32minfo[39m: Database is up and running
+2021-11-29T16:14:51.897Z - [32minfo[39m: validation error.
+2021-11-29T16:15:34.702Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:15:34.704Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:15:34.725Z - [32minfo[39m: Route not found
+2021-11-29T16:15:34.798Z - [32minfo[39m: Database is up and running
+2021-11-29T16:15:34.802Z - [32minfo[39m: truck is being created
+2021-11-29T16:15:34.802Z - [32minfo[39m: undefined
+2021-11-29T16:15:34.828Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:15:34.835Z - [32minfo[39m: Database is up and running
+2021-11-29T16:15:34.836Z - [32minfo[39m: truck is being created
+2021-11-29T16:15:34.836Z - [32minfo[39m: undefined
+2021-11-29T16:15:34.839Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:15:34.847Z - [32minfo[39m: Database is up and running
+2021-11-29T16:15:34.848Z - [32minfo[39m: truck is being created
+2021-11-29T16:15:34.848Z - [32minfo[39m: undefined
+2021-11-29T16:15:34.851Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:15:34.857Z - [32minfo[39m: Database is up and running
+2021-11-29T16:15:34.859Z - [32minfo[39m: validation error.
+2021-11-29T16:15:34.868Z - [32minfo[39m: Database is up and running
+2021-11-29T16:15:34.869Z - [32minfo[39m: validation error.
+2021-11-29T16:15:34.875Z - [32minfo[39m: Database is up and running
+2021-11-29T16:15:34.877Z - [32minfo[39m: truck is being updated
+2021-11-29T16:15:34.877Z - [32minfo[39m: undefined
+2021-11-29T16:15:34.887Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:15:34.893Z - [32minfo[39m: Database is up and running
+2021-11-29T16:15:34.894Z - [32minfo[39m: truck is being updated
+2021-11-29T16:15:34.894Z - [32minfo[39m: undefined
+2021-11-29T16:15:34.897Z - [32minfo[39m: truck did not update
+2021-11-29T16:15:34.903Z - [32minfo[39m: Database is up and running
+2021-11-29T16:15:34.904Z - [32minfo[39m: validation error.
+2021-11-29T16:20:11.708Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:20:11.710Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:20:11.729Z - [32minfo[39m: Route not found
+2021-11-29T16:20:11.804Z - [32minfo[39m: Database is up and running
+2021-11-29T16:20:11.808Z - [32minfo[39m: truck is being created
+2021-11-29T16:20:11.808Z - [32minfo[39m: undefined
+2021-11-29T16:20:11.833Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:20:11.840Z - [32minfo[39m: Database is up and running
+2021-11-29T16:20:11.842Z - [32minfo[39m: truck is being created
+2021-11-29T16:20:11.842Z - [32minfo[39m: undefined
+2021-11-29T16:20:11.845Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:20:11.851Z - [32minfo[39m: Database is up and running
+2021-11-29T16:20:11.852Z - [32minfo[39m: truck is being created
+2021-11-29T16:20:11.852Z - [32minfo[39m: undefined
+2021-11-29T16:20:11.855Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:20:11.862Z - [32minfo[39m: Database is up and running
+2021-11-29T16:20:11.863Z - [32minfo[39m: validation error.
+2021-11-29T16:20:11.872Z - [32minfo[39m: Database is up and running
+2021-11-29T16:20:11.873Z - [32minfo[39m: validation error.
+2021-11-29T16:20:11.879Z - [32minfo[39m: Database is up and running
+2021-11-29T16:20:11.880Z - [32minfo[39m: truck is being updated
+2021-11-29T16:20:11.881Z - [32minfo[39m: undefined
+2021-11-29T16:20:11.890Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:20:11.896Z - [32minfo[39m: Database is up and running
+2021-11-29T16:20:11.897Z - [32minfo[39m: truck is being updated
+2021-11-29T16:20:11.897Z - [32minfo[39m: undefined
+2021-11-29T16:20:11.900Z - [32minfo[39m: truck did not update
+2021-11-29T16:20:11.905Z - [32minfo[39m: Database is up and running
+2021-11-29T16:20:11.906Z - [32minfo[39m: validation error.
+2021-11-29T16:20:11.913Z - [32minfo[39m: Database is up and running
+2021-11-29T16:20:11.913Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T16:20:11.913Z - [32minfo[39m: undefined
+2021-11-29T16:20:11.924Z - [32minfo[39m: truck info has been received
+2021-11-29T16:22:05.770Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:22:05.772Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:22:05.792Z - [32minfo[39m: Route not found
+2021-11-29T16:22:05.867Z - [32minfo[39m: Database is up and running
+2021-11-29T16:22:05.870Z - [32minfo[39m: truck is being created
+2021-11-29T16:22:05.871Z - [32minfo[39m: undefined
+2021-11-29T16:22:05.896Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:22:05.904Z - [32minfo[39m: Database is up and running
+2021-11-29T16:22:05.905Z - [32minfo[39m: truck is being created
+2021-11-29T16:22:05.905Z - [32minfo[39m: undefined
+2021-11-29T16:22:05.909Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:22:05.916Z - [32minfo[39m: Database is up and running
+2021-11-29T16:22:05.917Z - [32minfo[39m: truck is being created
+2021-11-29T16:22:05.917Z - [32minfo[39m: undefined
+2021-11-29T16:22:05.919Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:22:05.926Z - [32minfo[39m: Database is up and running
+2021-11-29T16:22:05.927Z - [32minfo[39m: validation error.
+2021-11-29T16:22:05.937Z - [32minfo[39m: Database is up and running
+2021-11-29T16:22:05.939Z - [32minfo[39m: validation error.
+2021-11-29T16:22:05.945Z - [32minfo[39m: Database is up and running
+2021-11-29T16:22:05.946Z - [32minfo[39m: truck is being updated
+2021-11-29T16:22:05.947Z - [32minfo[39m: undefined
+2021-11-29T16:22:05.958Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:22:05.965Z - [32minfo[39m: Database is up and running
+2021-11-29T16:22:05.966Z - [32minfo[39m: truck is being updated
+2021-11-29T16:22:05.966Z - [32minfo[39m: undefined
+2021-11-29T16:22:05.968Z - [32minfo[39m: truck did not update
+2021-11-29T16:22:05.976Z - [32minfo[39m: Database is up and running
+2021-11-29T16:22:05.978Z - [32minfo[39m: validation error.
+2021-11-29T16:22:05.987Z - [32minfo[39m: Database is up and running
+2021-11-29T16:22:05.988Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T16:22:05.988Z - [32minfo[39m: undefined
+2021-11-29T16:22:06.002Z - [32minfo[39m: truck info has been received
+2021-11-29T16:23:50.262Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:23:50.264Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:38:28.595Z - [32minfo[39m: Database is up and running
+2021-11-29T16:38:28.599Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T16:38:28.600Z - [32minfo[39m: undefined
+2021-11-29T16:38:28.624Z - [32minfo[39m: truck info has been received
+2021-11-29T16:39:09.977Z - [32minfo[39m: Database is up and running
+2021-11-29T16:39:09.978Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T16:39:09.979Z - [32minfo[39m: undefined
+2021-11-29T16:39:09.986Z - [32minfo[39m: truck info has been received
+2021-11-29T16:39:34.885Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:39:34.886Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:39:34.906Z - [32minfo[39m: Route not found
+2021-11-29T16:39:34.984Z - [32minfo[39m: Database is up and running
+2021-11-29T16:39:34.988Z - [32minfo[39m: truck is being created
+2021-11-29T16:39:34.988Z - [32minfo[39m: undefined
+2021-11-29T16:39:35.012Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:39:35.020Z - [32minfo[39m: Database is up and running
+2021-11-29T16:39:35.021Z - [32minfo[39m: truck is being created
+2021-11-29T16:39:35.021Z - [32minfo[39m: undefined
+2021-11-29T16:39:35.025Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:39:35.033Z - [32minfo[39m: Database is up and running
+2021-11-29T16:39:35.034Z - [32minfo[39m: truck is being created
+2021-11-29T16:39:35.034Z - [32minfo[39m: undefined
+2021-11-29T16:39:35.037Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:39:35.044Z - [32minfo[39m: Database is up and running
+2021-11-29T16:39:35.045Z - [32minfo[39m: validation error.
+2021-11-29T16:39:35.054Z - [32minfo[39m: Database is up and running
+2021-11-29T16:39:35.055Z - [32minfo[39m: validation error.
+2021-11-29T16:39:35.062Z - [32minfo[39m: Database is up and running
+2021-11-29T16:39:35.064Z - [32minfo[39m: truck is being updated
+2021-11-29T16:39:35.064Z - [32minfo[39m: undefined
+2021-11-29T16:39:35.076Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:39:35.082Z - [32minfo[39m: Database is up and running
+2021-11-29T16:39:35.083Z - [32minfo[39m: truck is being updated
+2021-11-29T16:39:35.084Z - [32minfo[39m: undefined
+2021-11-29T16:39:35.086Z - [32minfo[39m: truck did not update
+2021-11-29T16:39:35.094Z - [32minfo[39m: Database is up and running
+2021-11-29T16:39:35.095Z - [32minfo[39m: validation error.
+2021-11-29T16:39:35.102Z - [32minfo[39m: Database is up and running
+2021-11-29T16:39:35.103Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T16:39:35.103Z - [32minfo[39m: undefined
+2021-11-29T16:39:35.114Z - [32minfo[39m: truck info has been received
+2021-11-29T16:43:36.427Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:43:36.429Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:43:36.450Z - [32minfo[39m: Route not found
+2021-11-29T16:43:36.523Z - [32minfo[39m: Database is up and running
+2021-11-29T16:43:36.527Z - [32minfo[39m: truck is being created
+2021-11-29T16:43:36.527Z - [32minfo[39m: undefined
+2021-11-29T16:43:36.552Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:43:36.559Z - [32minfo[39m: Database is up and running
+2021-11-29T16:43:36.561Z - [32minfo[39m: truck is being created
+2021-11-29T16:43:36.561Z - [32minfo[39m: undefined
+2021-11-29T16:43:36.565Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:43:36.571Z - [32minfo[39m: Database is up and running
+2021-11-29T16:43:36.572Z - [32minfo[39m: truck is being created
+2021-11-29T16:43:36.572Z - [32minfo[39m: undefined
+2021-11-29T16:43:36.575Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:43:36.582Z - [32minfo[39m: Database is up and running
+2021-11-29T16:43:36.584Z - [32minfo[39m: validation error.
+2021-11-29T16:43:36.593Z - [32minfo[39m: Database is up and running
+2021-11-29T16:43:36.594Z - [32minfo[39m: validation error.
+2021-11-29T16:43:36.600Z - [32minfo[39m: Database is up and running
+2021-11-29T16:43:36.601Z - [32minfo[39m: truck is being updated
+2021-11-29T16:43:36.602Z - [32minfo[39m: undefined
+2021-11-29T16:43:36.613Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:43:36.619Z - [32minfo[39m: Database is up and running
+2021-11-29T16:43:36.620Z - [32minfo[39m: truck is being updated
+2021-11-29T16:43:36.620Z - [32minfo[39m: undefined
+2021-11-29T16:43:36.623Z - [32minfo[39m: truck did not update
+2021-11-29T16:43:36.630Z - [32minfo[39m: Database is up and running
+2021-11-29T16:43:36.631Z - [32minfo[39m: validation error.
+2021-11-29T16:43:36.638Z - [32minfo[39m: Database is up and running
+2021-11-29T16:43:36.638Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T16:43:36.638Z - [32minfo[39m: undefined
+2021-11-29T16:43:36.649Z - [32minfo[39m: truck info has been received
+2021-11-29T16:50:58.344Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:50:58.346Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:50:58.367Z - [32minfo[39m: Route not found
+2021-11-29T16:50:58.441Z - [32minfo[39m: Database is up and running
+2021-11-29T16:50:58.445Z - [32minfo[39m: truck is being created
+2021-11-29T16:50:58.445Z - [32minfo[39m: undefined
+2021-11-29T16:50:58.467Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:50:58.474Z - [32minfo[39m: Database is up and running
+2021-11-29T16:50:58.476Z - [32minfo[39m: truck is being created
+2021-11-29T16:50:58.476Z - [32minfo[39m: undefined
+2021-11-29T16:50:58.479Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:50:58.486Z - [32minfo[39m: Database is up and running
+2021-11-29T16:50:58.487Z - [32minfo[39m: truck is being created
+2021-11-29T16:50:58.487Z - [32minfo[39m: undefined
+2021-11-29T16:50:58.490Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:50:58.496Z - [32minfo[39m: Database is up and running
+2021-11-29T16:50:58.498Z - [32minfo[39m: validation error.
+2021-11-29T16:50:58.506Z - [32minfo[39m: Database is up and running
+2021-11-29T16:50:58.507Z - [32minfo[39m: validation error.
+2021-11-29T16:50:58.514Z - [32minfo[39m: Database is up and running
+2021-11-29T16:50:58.515Z - [32minfo[39m: truck is being updated
+2021-11-29T16:50:58.516Z - [32minfo[39m: undefined
+2021-11-29T16:50:58.527Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:50:58.534Z - [32minfo[39m: Database is up and running
+2021-11-29T16:50:58.535Z - [32minfo[39m: truck is being updated
+2021-11-29T16:50:58.535Z - [32minfo[39m: undefined
+2021-11-29T16:50:58.538Z - [32minfo[39m: truck did not update
+2021-11-29T16:50:58.546Z - [32minfo[39m: Database is up and running
+2021-11-29T16:50:58.548Z - [32minfo[39m: validation error.
+2021-11-29T16:50:58.561Z - [32minfo[39m: Database is up and running
+2021-11-29T16:50:58.562Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T16:50:58.562Z - [32minfo[39m: undefined
+2021-11-29T16:50:58.574Z - [32minfo[39m: truck info has been received
+2021-11-29T16:50:58.580Z - [32minfo[39m: Database is up and running
+2021-11-29T16:50:58.581Z - [32minfo[39m: validation error.
+2021-11-29T16:51:37.484Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:51:37.485Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:51:37.507Z - [32minfo[39m: Route not found
+2021-11-29T16:51:37.580Z - [32minfo[39m: Database is up and running
+2021-11-29T16:51:37.584Z - [32minfo[39m: truck is being created
+2021-11-29T16:51:37.584Z - [32minfo[39m: undefined
+2021-11-29T16:51:37.607Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:51:37.614Z - [32minfo[39m: Database is up and running
+2021-11-29T16:51:37.616Z - [32minfo[39m: truck is being created
+2021-11-29T16:51:37.616Z - [32minfo[39m: undefined
+2021-11-29T16:51:37.619Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:51:37.626Z - [32minfo[39m: Database is up and running
+2021-11-29T16:51:37.627Z - [32minfo[39m: truck is being created
+2021-11-29T16:51:37.627Z - [32minfo[39m: undefined
+2021-11-29T16:51:37.630Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:51:37.637Z - [32minfo[39m: Database is up and running
+2021-11-29T16:51:37.638Z - [32minfo[39m: validation error.
+2021-11-29T16:51:37.647Z - [32minfo[39m: Database is up and running
+2021-11-29T16:51:37.648Z - [32minfo[39m: validation error.
+2021-11-29T16:51:37.654Z - [32minfo[39m: Database is up and running
+2021-11-29T16:51:37.656Z - [32minfo[39m: truck is being updated
+2021-11-29T16:51:37.656Z - [32minfo[39m: undefined
+2021-11-29T16:51:37.666Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:51:37.673Z - [32minfo[39m: Database is up and running
+2021-11-29T16:51:37.674Z - [32minfo[39m: truck is being updated
+2021-11-29T16:51:37.674Z - [32minfo[39m: undefined
+2021-11-29T16:51:37.676Z - [32minfo[39m: truck did not update
+2021-11-29T16:51:37.682Z - [32minfo[39m: Database is up and running
+2021-11-29T16:51:37.683Z - [32minfo[39m: validation error.
+2021-11-29T16:51:37.690Z - [32minfo[39m: Database is up and running
+2021-11-29T16:51:37.691Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T16:51:37.691Z - [32minfo[39m: undefined
+2021-11-29T16:51:37.703Z - [32minfo[39m: truck info has been received
+2021-11-29T16:51:37.709Z - [32minfo[39m: Database is up and running
+2021-11-29T16:51:37.710Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T16:51:37.710Z - [32minfo[39m: undefined
+2021-11-29T16:51:37.720Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T16:55:21.402Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:55:21.404Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:55:21.488Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:21.491Z - [32minfo[39m: truck is being created
+2021-11-29T16:55:21.492Z - [32minfo[39m: undefined
+2021-11-29T16:55:21.515Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:55:23.420Z - [32minfo[39m: Route not found
+2021-11-29T16:55:23.428Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:23.429Z - [32minfo[39m: truck is being created
+2021-11-29T16:55:23.429Z - [32minfo[39m: undefined
+2021-11-29T16:55:23.433Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:55:23.439Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:23.440Z - [32minfo[39m: truck is being created
+2021-11-29T16:55:23.440Z - [32minfo[39m: undefined
+2021-11-29T16:55:23.443Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:55:23.449Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:23.450Z - [32minfo[39m: validation error.
+2021-11-29T16:55:23.458Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:23.459Z - [32minfo[39m: validation error.
+2021-11-29T16:55:23.465Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:23.467Z - [32minfo[39m: truck is being updated
+2021-11-29T16:55:23.467Z - [32minfo[39m: undefined
+2021-11-29T16:55:23.476Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:55:23.482Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:23.483Z - [32minfo[39m: truck is being updated
+2021-11-29T16:55:23.483Z - [32minfo[39m: undefined
+2021-11-29T16:55:23.485Z - [32minfo[39m: truck did not update
+2021-11-29T16:55:23.490Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:23.491Z - [32minfo[39m: validation error.
+2021-11-29T16:55:23.497Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:23.497Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T16:55:23.497Z - [32minfo[39m: undefined
+2021-11-29T16:55:23.506Z - [32minfo[39m: truck info has been received
+2021-11-29T16:55:23.512Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:23.513Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T16:55:23.513Z - [32minfo[39m: undefined
+2021-11-29T16:55:23.521Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T16:55:45.499Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:55:45.501Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:55:45.585Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:45.589Z - [32minfo[39m: truck is being created
+2021-11-29T16:55:45.589Z - [32minfo[39m: undefined
+2021-11-29T16:55:45.612Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:55:45.623Z - [32minfo[39m: Route not found
+2021-11-29T16:55:45.630Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:45.632Z - [32minfo[39m: truck is being created
+2021-11-29T16:55:45.632Z - [32minfo[39m: undefined
+2021-11-29T16:55:45.635Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:55:45.642Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:45.643Z - [32minfo[39m: truck is being created
+2021-11-29T16:55:45.643Z - [32minfo[39m: undefined
+2021-11-29T16:55:45.646Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:55:45.653Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:45.655Z - [32minfo[39m: validation error.
+2021-11-29T16:55:45.665Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:45.666Z - [32minfo[39m: validation error.
+2021-11-29T16:55:45.673Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:45.674Z - [32minfo[39m: truck is being updated
+2021-11-29T16:55:45.674Z - [32minfo[39m: undefined
+2021-11-29T16:55:45.686Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:55:45.692Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:45.693Z - [32minfo[39m: truck is being updated
+2021-11-29T16:55:45.693Z - [32minfo[39m: undefined
+2021-11-29T16:55:45.696Z - [32minfo[39m: truck did not update
+2021-11-29T16:55:45.702Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:45.703Z - [32minfo[39m: validation error.
+2021-11-29T16:55:45.711Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:45.711Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T16:55:45.711Z - [32minfo[39m: undefined
+2021-11-29T16:55:45.722Z - [32minfo[39m: truck info has been received
+2021-11-29T16:55:45.728Z - [32minfo[39m: Database is up and running
+2021-11-29T16:55:45.729Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T16:55:45.729Z - [32minfo[39m: undefined
+2021-11-29T16:55:45.739Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T16:56:10.842Z - [32minfo[39m: Server Port: 3000
+2021-11-29T16:56:10.844Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T16:56:10.927Z - [32minfo[39m: Database is up and running
+2021-11-29T16:56:10.931Z - [32minfo[39m: truck is being created
+2021-11-29T16:56:10.931Z - [32minfo[39m: undefined
+2021-11-29T16:56:10.955Z - [32minfo[39m: A new truck has been created
+2021-11-29T16:56:10.967Z - [32minfo[39m: Database is up and running
+2021-11-29T16:56:10.968Z - [32minfo[39m: truck is being created
+2021-11-29T16:56:10.969Z - [32minfo[39m: undefined
+2021-11-29T16:56:10.972Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:56:10.977Z - [32minfo[39m: Route not found
+2021-11-29T16:56:10.984Z - [32minfo[39m: Database is up and running
+2021-11-29T16:56:10.985Z - [32minfo[39m: truck is being created
+2021-11-29T16:56:10.985Z - [32minfo[39m: undefined
+2021-11-29T16:56:10.988Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:56:10.995Z - [32minfo[39m: Database is up and running
+2021-11-29T16:56:10.996Z - [32minfo[39m: truck is being created
+2021-11-29T16:56:10.996Z - [32minfo[39m: undefined
+2021-11-29T16:56:10.998Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T16:56:11.005Z - [32minfo[39m: Database is up and running
+2021-11-29T16:56:11.006Z - [32minfo[39m: validation error.
+2021-11-29T16:56:11.016Z - [32minfo[39m: Database is up and running
+2021-11-29T16:56:11.017Z - [32minfo[39m: validation error.
+2021-11-29T16:56:11.024Z - [32minfo[39m: Database is up and running
+2021-11-29T16:56:11.025Z - [32minfo[39m: truck is being updated
+2021-11-29T16:56:11.025Z - [32minfo[39m: undefined
+2021-11-29T16:56:11.035Z - [32minfo[39m: truck data has been updated
+2021-11-29T16:56:11.041Z - [32minfo[39m: Database is up and running
+2021-11-29T16:56:11.042Z - [32minfo[39m: truck is being updated
+2021-11-29T16:56:11.042Z - [32minfo[39m: undefined
+2021-11-29T16:56:11.045Z - [32minfo[39m: truck did not update
+2021-11-29T16:56:11.051Z - [32minfo[39m: Database is up and running
+2021-11-29T16:56:11.052Z - [32minfo[39m: validation error.
+2021-11-29T16:56:11.059Z - [32minfo[39m: Database is up and running
+2021-11-29T16:56:11.059Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T16:56:11.059Z - [32minfo[39m: undefined
+2021-11-29T16:56:11.069Z - [32minfo[39m: truck info has been received
+2021-11-29T16:56:11.075Z - [32minfo[39m: Database is up and running
+2021-11-29T16:56:11.076Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T16:56:11.076Z - [32minfo[39m: undefined
+2021-11-29T16:56:11.087Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:00:58.690Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:00:58.693Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:00:58.775Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.779Z - [32minfo[39m: truck is being created
+2021-11-29T17:00:58.779Z - [32minfo[39m: undefined
+2021-11-29T17:00:58.802Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:00:58.815Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.816Z - [32minfo[39m: truck is being created
+2021-11-29T17:00:58.816Z - [32minfo[39m: undefined
+2021-11-29T17:00:58.820Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:00:58.825Z - [32minfo[39m: Route not found
+2021-11-29T17:00:58.833Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.834Z - [32minfo[39m: truck is being created
+2021-11-29T17:00:58.834Z - [32minfo[39m: undefined
+2021-11-29T17:00:58.837Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:00:58.843Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.844Z - [32minfo[39m: truck is being created
+2021-11-29T17:00:58.845Z - [32minfo[39m: undefined
+2021-11-29T17:00:58.847Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:00:58.853Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.854Z - [32minfo[39m: validation error.
+2021-11-29T17:00:58.863Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.864Z - [32minfo[39m: validation error.
+2021-11-29T17:00:58.870Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.871Z - [32minfo[39m: truck is being updated
+2021-11-29T17:00:58.872Z - [32minfo[39m: undefined
+2021-11-29T17:00:58.882Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:00:58.888Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.889Z - [32minfo[39m: truck is being updated
+2021-11-29T17:00:58.889Z - [32minfo[39m: undefined
+2021-11-29T17:00:58.891Z - [32minfo[39m: truck did not update
+2021-11-29T17:00:58.897Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.898Z - [32minfo[39m: validation error.
+2021-11-29T17:00:58.905Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.906Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:00:58.906Z - [32minfo[39m: undefined
+2021-11-29T17:00:58.916Z - [32minfo[39m: truck info has been received
+2021-11-29T17:00:58.923Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.924Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:00:58.924Z - [32minfo[39m: undefined
+2021-11-29T17:00:58.934Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:00:58.940Z - [32minfo[39m: Database is up and running
+2021-11-29T17:00:58.941Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:00:58.941Z - [32minfo[39m: undefined
+2021-11-29T17:00:58.948Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:03:07.485Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:03:07.487Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:03:07.569Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.572Z - [32minfo[39m: truck is being created
+2021-11-29T17:03:07.573Z - [32minfo[39m: undefined
+2021-11-29T17:03:07.597Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:03:07.610Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.611Z - [32minfo[39m: truck is being created
+2021-11-29T17:03:07.611Z - [32minfo[39m: undefined
+2021-11-29T17:03:07.615Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:03:07.620Z - [32minfo[39m: Route not found
+2021-11-29T17:03:07.626Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.627Z - [32minfo[39m: truck is being created
+2021-11-29T17:03:07.627Z - [32minfo[39m: undefined
+2021-11-29T17:03:07.630Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:03:07.636Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.637Z - [32minfo[39m: truck is being created
+2021-11-29T17:03:07.637Z - [32minfo[39m: undefined
+2021-11-29T17:03:07.640Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:03:07.646Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.647Z - [32minfo[39m: validation error.
+2021-11-29T17:03:07.656Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.657Z - [32minfo[39m: validation error.
+2021-11-29T17:03:07.664Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.666Z - [32minfo[39m: truck is being updated
+2021-11-29T17:03:07.666Z - [32minfo[39m: undefined
+2021-11-29T17:03:07.677Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:03:07.683Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.684Z - [32minfo[39m: truck is being updated
+2021-11-29T17:03:07.684Z - [32minfo[39m: undefined
+2021-11-29T17:03:07.687Z - [32minfo[39m: truck did not update
+2021-11-29T17:03:07.693Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.694Z - [32minfo[39m: validation error.
+2021-11-29T17:03:07.700Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.701Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:03:07.701Z - [32minfo[39m: undefined
+2021-11-29T17:03:07.710Z - [32minfo[39m: truck info has been received
+2021-11-29T17:03:07.717Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.718Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:03:07.718Z - [32minfo[39m: undefined
+2021-11-29T17:03:07.727Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:03:07.733Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.734Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:03:07.734Z - [32minfo[39m: undefined
+2021-11-29T17:03:07.741Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:03:07.747Z - [32minfo[39m: Database is up and running
+2021-11-29T17:03:07.748Z - [32minfo[39m: truck location is received for truckId 4
+2021-11-29T17:03:07.748Z - [32minfo[39m: undefined
+2021-11-29T17:03:07.756Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-11-29T17:04:33.922Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:04:33.924Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:04:34.009Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.013Z - [32minfo[39m: truck is being created
+2021-11-29T17:04:34.014Z - [32minfo[39m: undefined
+2021-11-29T17:04:34.035Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:04:34.048Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.050Z - [32minfo[39m: truck is being created
+2021-11-29T17:04:34.050Z - [32minfo[39m: undefined
+2021-11-29T17:04:34.054Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:04:34.058Z - [32minfo[39m: Route not found
+2021-11-29T17:04:34.065Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.066Z - [32minfo[39m: truck is being created
+2021-11-29T17:04:34.066Z - [32minfo[39m: undefined
+2021-11-29T17:04:34.069Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:04:34.076Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.076Z - [32minfo[39m: truck is being created
+2021-11-29T17:04:34.077Z - [32minfo[39m: undefined
+2021-11-29T17:04:34.079Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:04:34.085Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.086Z - [32minfo[39m: validation error.
+2021-11-29T17:04:34.096Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.097Z - [32minfo[39m: validation error.
+2021-11-29T17:04:34.103Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.104Z - [32minfo[39m: truck is being updated
+2021-11-29T17:04:34.105Z - [32minfo[39m: undefined
+2021-11-29T17:04:34.114Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:04:34.121Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.122Z - [32minfo[39m: truck is being updated
+2021-11-29T17:04:34.122Z - [32minfo[39m: undefined
+2021-11-29T17:04:34.125Z - [32minfo[39m: truck did not update
+2021-11-29T17:04:34.131Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.132Z - [32minfo[39m: validation error.
+2021-11-29T17:04:34.139Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.140Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:04:34.140Z - [32minfo[39m: undefined
+2021-11-29T17:04:34.151Z - [32minfo[39m: truck info has been received
+2021-11-29T17:04:34.157Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.158Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:04:34.158Z - [32minfo[39m: undefined
+2021-11-29T17:04:34.168Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:04:34.174Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.174Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:04:34.174Z - [32minfo[39m: undefined
+2021-11-29T17:04:34.181Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:04:34.188Z - [32minfo[39m: Database is up and running
+2021-11-29T17:04:34.188Z - [32minfo[39m: truck location is received for truckId 4
+2021-11-29T17:04:34.188Z - [32minfo[39m: undefined
+2021-11-29T17:04:34.195Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-11-29T17:06:01.627Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:06:01.629Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:06:01.709Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.713Z - [32minfo[39m: truck is being created
+2021-11-29T17:06:01.714Z - [32minfo[39m: undefined
+2021-11-29T17:06:01.736Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:06:01.749Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.751Z - [32minfo[39m: truck is being created
+2021-11-29T17:06:01.751Z - [32minfo[39m: undefined
+2021-11-29T17:06:01.755Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:06:01.760Z - [32minfo[39m: Route not found
+2021-11-29T17:06:01.769Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.770Z - [32minfo[39m: truck is being created
+2021-11-29T17:06:01.770Z - [32minfo[39m: undefined
+2021-11-29T17:06:01.773Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:06:01.780Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.781Z - [32minfo[39m: truck is being created
+2021-11-29T17:06:01.781Z - [32minfo[39m: undefined
+2021-11-29T17:06:01.784Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:06:01.790Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.791Z - [32minfo[39m: validation error.
+2021-11-29T17:06:01.801Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.802Z - [32minfo[39m: validation error.
+2021-11-29T17:06:01.808Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.809Z - [32minfo[39m: truck is being updated
+2021-11-29T17:06:01.809Z - [32minfo[39m: undefined
+2021-11-29T17:06:01.821Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:06:01.826Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.828Z - [32minfo[39m: truck is being updated
+2021-11-29T17:06:01.828Z - [32minfo[39m: undefined
+2021-11-29T17:06:01.830Z - [32minfo[39m: truck did not update
+2021-11-29T17:06:01.836Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.837Z - [32minfo[39m: validation error.
+2021-11-29T17:06:01.844Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.845Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:06:01.845Z - [32minfo[39m: undefined
+2021-11-29T17:06:01.854Z - [32minfo[39m: truck info has been received
+2021-11-29T17:06:01.861Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.862Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:06:01.863Z - [32minfo[39m: undefined
+2021-11-29T17:06:01.871Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:06:01.877Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.878Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:06:01.878Z - [32minfo[39m: undefined
+2021-11-29T17:06:01.885Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:06:01.891Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.891Z - [32minfo[39m: truck location is received for truckId 4
+2021-11-29T17:06:01.891Z - [32minfo[39m: undefined
+2021-11-29T17:06:01.896Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-11-29T17:06:01.902Z - [32minfo[39m: Database is up and running
+2021-11-29T17:06:01.903Z - [32minfo[39m: validation error.
+2021-11-29T17:07:34.507Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:07:34.509Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:07:34.592Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.596Z - [32minfo[39m: truck is being created
+2021-11-29T17:07:34.596Z - [32minfo[39m: undefined
+2021-11-29T17:07:34.619Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:07:34.632Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.634Z - [32minfo[39m: truck is being created
+2021-11-29T17:07:34.634Z - [32minfo[39m: undefined
+2021-11-29T17:07:34.638Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:07:34.643Z - [32minfo[39m: Route not found
+2021-11-29T17:07:34.650Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.650Z - [32minfo[39m: truck is being created
+2021-11-29T17:07:34.651Z - [32minfo[39m: undefined
+2021-11-29T17:07:34.653Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:07:34.659Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.661Z - [32minfo[39m: truck is being created
+2021-11-29T17:07:34.661Z - [32minfo[39m: undefined
+2021-11-29T17:07:34.664Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:07:34.670Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.671Z - [32minfo[39m: validation error.
+2021-11-29T17:07:34.680Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.681Z - [32minfo[39m: validation error.
+2021-11-29T17:07:34.686Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.688Z - [32minfo[39m: truck is being updated
+2021-11-29T17:07:34.689Z - [32minfo[39m: undefined
+2021-11-29T17:07:34.699Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:07:34.706Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.707Z - [32minfo[39m: truck is being updated
+2021-11-29T17:07:34.707Z - [32minfo[39m: undefined
+2021-11-29T17:07:34.709Z - [32minfo[39m: truck did not update
+2021-11-29T17:07:34.715Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.716Z - [32minfo[39m: validation error.
+2021-11-29T17:07:34.723Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.724Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:07:34.724Z - [32minfo[39m: undefined
+2021-11-29T17:07:34.735Z - [32minfo[39m: truck info has been received
+2021-11-29T17:07:34.743Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.744Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:07:34.744Z - [32minfo[39m: undefined
+2021-11-29T17:07:34.753Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:07:34.759Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.759Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:07:34.759Z - [32minfo[39m: undefined
+2021-11-29T17:07:34.766Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:07:34.772Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.772Z - [32minfo[39m: truck location is received for truckId 4
+2021-11-29T17:07:34.773Z - [32minfo[39m: undefined
+2021-11-29T17:07:34.778Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-11-29T17:07:34.784Z - [32minfo[39m: Database is up and running
+2021-11-29T17:07:34.785Z - [32minfo[39m: validation error.
+2021-11-29T17:11:47.584Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:11:47.586Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:11:47.672Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.676Z - [32minfo[39m: truck is being created
+2021-11-29T17:11:47.676Z - [32minfo[39m: undefined
+2021-11-29T17:11:47.700Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:11:47.714Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.716Z - [32minfo[39m: truck is being created
+2021-11-29T17:11:47.716Z - [32minfo[39m: undefined
+2021-11-29T17:11:47.719Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:11:47.725Z - [32minfo[39m: Route not found
+2021-11-29T17:11:47.734Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.735Z - [32minfo[39m: truck is being created
+2021-11-29T17:11:47.735Z - [32minfo[39m: undefined
+2021-11-29T17:11:47.738Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:11:47.745Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.746Z - [32minfo[39m: truck is being created
+2021-11-29T17:11:47.746Z - [32minfo[39m: undefined
+2021-11-29T17:11:47.748Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:11:47.755Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.756Z - [32minfo[39m: validation error.
+2021-11-29T17:11:47.766Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.767Z - [32minfo[39m: validation error.
+2021-11-29T17:11:47.775Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.777Z - [32minfo[39m: truck is being updated
+2021-11-29T17:11:47.778Z - [32minfo[39m: undefined
+2021-11-29T17:11:47.789Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:11:47.795Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.797Z - [32minfo[39m: truck is being updated
+2021-11-29T17:11:47.797Z - [32minfo[39m: undefined
+2021-11-29T17:11:47.800Z - [32minfo[39m: truck did not update
+2021-11-29T17:11:47.806Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.808Z - [32minfo[39m: validation error.
+2021-11-29T17:11:47.814Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.815Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:11:47.815Z - [32minfo[39m: undefined
+2021-11-29T17:11:47.825Z - [32minfo[39m: truck info has been received
+2021-11-29T17:11:47.831Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.832Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:11:47.832Z - [32minfo[39m: undefined
+2021-11-29T17:11:47.841Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:11:47.847Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.848Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:11:47.848Z - [32minfo[39m: undefined
+2021-11-29T17:11:47.855Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:11:47.862Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.863Z - [32minfo[39m: truck location is received for truckId 4
+2021-11-29T17:11:47.863Z - [32minfo[39m: undefined
+2021-11-29T17:11:47.868Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-11-29T17:11:47.874Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.875Z - [32minfo[39m: validation error.
+2021-11-29T17:11:47.881Z - [32minfo[39m: Database is up and running
+2021-11-29T17:11:47.881Z - [32minfo[39m: last 5 locations for truckId 1
+2021-11-29T17:11:47.881Z - [32minfo[39m: undefined
+2021-11-29T17:11:47.885Z - [32minfo[39m: last 5 locations of truckId 1 has been retrieved
+2021-11-29T17:13:01.465Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:13:01.466Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:13:01.549Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.553Z - [32minfo[39m: truck is being created
+2021-11-29T17:13:01.553Z - [32minfo[39m: undefined
+2021-11-29T17:13:01.576Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:13:01.588Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.589Z - [32minfo[39m: truck is being created
+2021-11-29T17:13:01.589Z - [32minfo[39m: undefined
+2021-11-29T17:13:01.593Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:13:01.597Z - [32minfo[39m: Route not found
+2021-11-29T17:13:01.605Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.606Z - [32minfo[39m: truck is being created
+2021-11-29T17:13:01.606Z - [32minfo[39m: undefined
+2021-11-29T17:13:01.610Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:13:01.617Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.618Z - [32minfo[39m: truck is being created
+2021-11-29T17:13:01.618Z - [32minfo[39m: undefined
+2021-11-29T17:13:01.620Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:13:01.627Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.628Z - [32minfo[39m: validation error.
+2021-11-29T17:13:01.638Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.639Z - [32minfo[39m: validation error.
+2021-11-29T17:13:01.644Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.646Z - [32minfo[39m: truck is being updated
+2021-11-29T17:13:01.646Z - [32minfo[39m: undefined
+2021-11-29T17:13:01.657Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:13:01.663Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.664Z - [32minfo[39m: truck is being updated
+2021-11-29T17:13:01.664Z - [32minfo[39m: undefined
+2021-11-29T17:13:01.666Z - [32minfo[39m: truck did not update
+2021-11-29T17:13:01.672Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.673Z - [32minfo[39m: validation error.
+2021-11-29T17:13:01.680Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.680Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:13:01.680Z - [32minfo[39m: undefined
+2021-11-29T17:13:01.690Z - [32minfo[39m: truck info has been received
+2021-11-29T17:13:01.697Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.697Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:13:01.698Z - [32minfo[39m: undefined
+2021-11-29T17:13:01.707Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:13:01.712Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.713Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:13:01.713Z - [32minfo[39m: undefined
+2021-11-29T17:13:01.721Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:13:01.726Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.727Z - [32minfo[39m: truck location is received for truckId 4
+2021-11-29T17:13:01.727Z - [32minfo[39m: undefined
+2021-11-29T17:13:01.734Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-11-29T17:13:01.741Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.742Z - [32minfo[39m: validation error.
+2021-11-29T17:13:01.748Z - [32minfo[39m: Database is up and running
+2021-11-29T17:13:01.749Z - [32minfo[39m: last 5 locations for truckId 1
+2021-11-29T17:13:01.749Z - [32minfo[39m: undefined
+2021-11-29T17:13:01.752Z - [32minfo[39m: last 5 locations of truckId 1 has been retrieved
+2021-11-29T17:16:24.036Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:16:24.038Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:16:24.123Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:24.126Z - [32minfo[39m: truck is being created
+2021-11-29T17:16:24.127Z - [32minfo[39m: undefined
+2021-11-29T17:16:24.149Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:16:24.161Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:24.162Z - [32minfo[39m: truck is being created
+2021-11-29T17:16:24.162Z - [32minfo[39m: undefined
+2021-11-29T17:16:24.167Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:16:24.171Z - [32minfo[39m: Route not found
+2021-11-29T17:16:24.179Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:24.180Z - [32minfo[39m: truck is being created
+2021-11-29T17:16:24.181Z - [32minfo[39m: undefined
+2021-11-29T17:16:24.183Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:16:24.191Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:24.192Z - [32minfo[39m: truck is being created
+2021-11-29T17:16:24.192Z - [32minfo[39m: undefined
+2021-11-29T17:16:24.195Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:16:24.201Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:24.202Z - [32minfo[39m: validation error.
+2021-11-29T17:16:24.210Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:24.211Z - [32minfo[39m: validation error.
+2021-11-29T17:16:24.218Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:24.220Z - [32minfo[39m: truck is being updated
+2021-11-29T17:16:24.220Z - [32minfo[39m: undefined
+2021-11-29T17:16:24.230Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:16:24.237Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:24.238Z - [32minfo[39m: truck is being updated
+2021-11-29T17:16:24.238Z - [32minfo[39m: undefined
+2021-11-29T17:16:24.240Z - [32minfo[39m: truck did not update
+2021-11-29T17:16:24.246Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:24.248Z - [32minfo[39m: validation error.
+2021-11-29T17:16:24.254Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:24.255Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:16:24.255Z - [32minfo[39m: undefined
+2021-11-29T17:16:24.265Z - [32minfo[39m: truck info has been received
+2021-11-29T17:16:24.272Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:24.272Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:16:24.273Z - [32minfo[39m: undefined
+2021-11-29T17:16:24.282Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:16:26.292Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:26.292Z - [32minfo[39m: truck location is received for truckId 4
+2021-11-29T17:16:26.292Z - [32minfo[39m: undefined
+2021-11-29T17:16:26.300Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-11-29T17:16:26.306Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:26.308Z - [32minfo[39m: validation error.
+2021-11-29T17:16:26.313Z - [32minfo[39m: Database is up and running
+2021-11-29T17:16:26.314Z - [32minfo[39m: last 5 locations for truckId 1
+2021-11-29T17:16:26.314Z - [32minfo[39m: undefined
+2021-11-29T17:16:26.317Z - [32minfo[39m: last 5 locations of truckId 1 has been retrieved
+2021-11-29T17:17:20.763Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:17:20.764Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:17:20.847Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:20.851Z - [32minfo[39m: truck is being created
+2021-11-29T17:17:20.851Z - [32minfo[39m: undefined
+2021-11-29T17:17:20.873Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:17:20.885Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:20.887Z - [32minfo[39m: truck is being created
+2021-11-29T17:17:20.887Z - [32minfo[39m: undefined
+2021-11-29T17:17:20.891Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:17:20.895Z - [32minfo[39m: Route not found
+2021-11-29T17:17:20.903Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:20.904Z - [32minfo[39m: truck is being created
+2021-11-29T17:17:20.904Z - [32minfo[39m: undefined
+2021-11-29T17:17:20.907Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:17:20.913Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:20.914Z - [32minfo[39m: truck is being created
+2021-11-29T17:17:20.914Z - [32minfo[39m: undefined
+2021-11-29T17:17:20.916Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:17:20.922Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:20.923Z - [32minfo[39m: validation error.
+2021-11-29T17:17:20.932Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:20.933Z - [32minfo[39m: validation error.
+2021-11-29T17:17:20.939Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:20.940Z - [32minfo[39m: truck is being updated
+2021-11-29T17:17:20.941Z - [32minfo[39m: undefined
+2021-11-29T17:17:20.951Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:17:20.957Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:20.958Z - [32minfo[39m: truck is being updated
+2021-11-29T17:17:20.958Z - [32minfo[39m: undefined
+2021-11-29T17:17:20.960Z - [32minfo[39m: truck did not update
+2021-11-29T17:17:20.966Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:20.968Z - [32minfo[39m: validation error.
+2021-11-29T17:17:20.974Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:20.975Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:17:20.975Z - [32minfo[39m: undefined
+2021-11-29T17:17:20.985Z - [32minfo[39m: truck info has been received
+2021-11-29T17:17:20.992Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:20.993Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:17:20.993Z - [32minfo[39m: undefined
+2021-11-29T17:17:21.001Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:17:23.023Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:23.024Z - [32minfo[39m: truck location is received for truckId 4
+2021-11-29T17:17:23.024Z - [32minfo[39m: undefined
+2021-11-29T17:17:23.032Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-11-29T17:17:23.039Z - [32minfo[39m: Database is up and running
+2021-11-29T17:17:23.040Z - [32minfo[39m: validation error.
+2021-11-29T17:25:09.678Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:25:09.679Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:25:09.765Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:09.769Z - [32minfo[39m: truck is being created
+2021-11-29T17:25:09.769Z - [32minfo[39m: undefined
+2021-11-29T17:25:09.791Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:25:09.804Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:09.805Z - [32minfo[39m: truck is being created
+2021-11-29T17:25:09.805Z - [32minfo[39m: undefined
+2021-11-29T17:25:09.809Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:25:09.814Z - [32minfo[39m: Route not found
+2021-11-29T17:25:09.821Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:09.821Z - [32minfo[39m: truck is being created
+2021-11-29T17:25:09.822Z - [32minfo[39m: undefined
+2021-11-29T17:25:09.825Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:25:09.832Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:09.833Z - [32minfo[39m: truck is being created
+2021-11-29T17:25:09.833Z - [32minfo[39m: undefined
+2021-11-29T17:25:09.835Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:25:09.841Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:09.843Z - [32minfo[39m: validation error.
+2021-11-29T17:25:09.852Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:09.852Z - [32minfo[39m: validation error.
+2021-11-29T17:25:09.859Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:09.860Z - [32minfo[39m: truck is being updated
+2021-11-29T17:25:09.860Z - [32minfo[39m: undefined
+2021-11-29T17:25:09.871Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:25:09.877Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:09.878Z - [32minfo[39m: truck is being updated
+2021-11-29T17:25:09.879Z - [32minfo[39m: undefined
+2021-11-29T17:25:09.881Z - [32minfo[39m: truck did not update
+2021-11-29T17:25:09.887Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:09.888Z - [32minfo[39m: validation error.
+2021-11-29T17:25:09.895Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:09.895Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:25:09.896Z - [32minfo[39m: undefined
+2021-11-29T17:25:09.906Z - [32minfo[39m: truck info has been received
+2021-11-29T17:25:09.913Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:09.914Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:25:09.914Z - [32minfo[39m: undefined
+2021-11-29T17:25:09.923Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:25:11.937Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:11.938Z - [32minfo[39m: truck location is received for truckId 4
+2021-11-29T17:25:11.938Z - [32minfo[39m: undefined
+2021-11-29T17:25:11.945Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-11-29T17:25:11.950Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:11.951Z - [32minfo[39m: validation error.
+2021-11-29T17:25:14.935Z - [32minfo[39m: Database is up and running
+2021-11-29T17:25:14.936Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:25:14.936Z - [32minfo[39m: undefined
+2021-11-29T17:25:14.944Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:26:28.334Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:26:28.336Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:26:28.422Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:28.426Z - [32minfo[39m: truck is being created
+2021-11-29T17:26:28.426Z - [32minfo[39m: undefined
+2021-11-29T17:26:28.447Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:26:28.460Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:28.461Z - [32minfo[39m: truck is being created
+2021-11-29T17:26:28.461Z - [32minfo[39m: undefined
+2021-11-29T17:26:28.465Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:26:28.470Z - [32minfo[39m: Route not found
+2021-11-29T17:26:28.477Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:28.478Z - [32minfo[39m: truck is being created
+2021-11-29T17:26:28.478Z - [32minfo[39m: undefined
+2021-11-29T17:26:28.481Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:26:28.487Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:28.488Z - [32minfo[39m: truck is being created
+2021-11-29T17:26:28.488Z - [32minfo[39m: undefined
+2021-11-29T17:26:28.491Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:26:28.498Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:28.499Z - [32minfo[39m: validation error.
+2021-11-29T17:26:28.509Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:28.510Z - [32minfo[39m: validation error.
+2021-11-29T17:26:28.516Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:28.517Z - [32minfo[39m: truck is being updated
+2021-11-29T17:26:28.517Z - [32minfo[39m: undefined
+2021-11-29T17:26:28.527Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:26:28.533Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:28.535Z - [32minfo[39m: truck is being updated
+2021-11-29T17:26:28.535Z - [32minfo[39m: undefined
+2021-11-29T17:26:28.538Z - [32minfo[39m: truck did not update
+2021-11-29T17:26:28.544Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:28.545Z - [32minfo[39m: validation error.
+2021-11-29T17:26:28.552Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:28.552Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:26:28.552Z - [32minfo[39m: undefined
+2021-11-29T17:26:28.563Z - [32minfo[39m: truck info has been received
+2021-11-29T17:26:28.571Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:28.571Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:26:28.571Z - [32minfo[39m: undefined
+2021-11-29T17:26:28.580Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:26:33.588Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:33.589Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:26:33.589Z - [32minfo[39m: undefined
+2021-11-29T17:26:33.600Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:26:33.606Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:33.607Z - [32minfo[39m: truck location is received for truckId 4
+2021-11-29T17:26:33.607Z - [32minfo[39m: undefined
+2021-11-29T17:26:33.613Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-11-29T17:26:33.618Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:33.619Z - [32minfo[39m: validation error.
+2021-11-29T17:26:39.633Z - [32minfo[39m: Database is up and running
+2021-11-29T17:26:39.634Z - [32minfo[39m: last 5 locations for truckId 1
+2021-11-29T17:26:39.634Z - [32minfo[39m: undefined
+2021-11-29T17:26:39.638Z - [32minfo[39m: last 5 locations of truckId 1 has been retrieved
+2021-11-29T17:28:36.809Z - [32minfo[39m: Server Port: 3000
+2021-11-29T17:28:36.811Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-11-29T17:28:36.895Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:36.899Z - [32minfo[39m: truck is being created
+2021-11-29T17:28:36.899Z - [32minfo[39m: undefined
+2021-11-29T17:28:36.923Z - [32minfo[39m: A new truck has been created
+2021-11-29T17:28:36.935Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:36.937Z - [32minfo[39m: truck is being created
+2021-11-29T17:28:36.937Z - [32minfo[39m: undefined
+2021-11-29T17:28:36.941Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:28:36.946Z - [32minfo[39m: Route not found
+2021-11-29T17:28:36.952Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:36.953Z - [32minfo[39m: truck is being created
+2021-11-29T17:28:36.954Z - [32minfo[39m: undefined
+2021-11-29T17:28:36.956Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:28:36.963Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:36.963Z - [32minfo[39m: truck is being created
+2021-11-29T17:28:36.964Z - [32minfo[39m: undefined
+2021-11-29T17:28:36.966Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-11-29T17:28:36.972Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:36.974Z - [32minfo[39m: validation error.
+2021-11-29T17:28:36.983Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:36.984Z - [32minfo[39m: validation error.
+2021-11-29T17:28:36.991Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:36.992Z - [32minfo[39m: truck is being updated
+2021-11-29T17:28:36.993Z - [32minfo[39m: undefined
+2021-11-29T17:28:37.003Z - [32minfo[39m: truck data has been updated
+2021-11-29T17:28:37.009Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:37.010Z - [32minfo[39m: truck is being updated
+2021-11-29T17:28:37.010Z - [32minfo[39m: undefined
+2021-11-29T17:28:37.013Z - [32minfo[39m: truck did not update
+2021-11-29T17:28:37.019Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:37.021Z - [32minfo[39m: validation error.
+2021-11-29T17:28:37.027Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:37.028Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-11-29T17:28:37.028Z - [32minfo[39m: undefined
+2021-11-29T17:28:37.039Z - [32minfo[39m: truck info has been received
+2021-11-29T17:28:37.047Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:37.048Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:28:37.048Z - [32minfo[39m: undefined
+2021-11-29T17:28:37.057Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:28:42.073Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:42.074Z - [32minfo[39m: truck location is received for truckId 1
+2021-11-29T17:28:42.074Z - [32minfo[39m: undefined
+2021-11-29T17:28:42.084Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-11-29T17:28:42.090Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:42.091Z - [32minfo[39m: truck location is received for truckId 4
+2021-11-29T17:28:42.091Z - [32minfo[39m: undefined
+2021-11-29T17:28:42.098Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-11-29T17:28:42.103Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:42.104Z - [32minfo[39m: validation error.
+2021-11-29T17:28:48.113Z - [32minfo[39m: Database is up and running
+2021-11-29T17:28:48.113Z - [32minfo[39m: last 5 locations for truckId 1
+2021-11-29T17:28:48.114Z - [32minfo[39m: undefined
+2021-11-29T17:28:48.118Z - [32minfo[39m: last 5 locations of truckId 1 has been retrieved
