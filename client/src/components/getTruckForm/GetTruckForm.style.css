@@ -1,0 +1,35 @@
+.get-truck-form {
+    padding: 43px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.get-truck-form input {
+    width: 229px;
+    height: 45px;
+    border-radius: 3px;
+    border: 1px solid #d7d7d7;
+    margin: 10px;
+}
+
+.get-truck-form button {
+    height: 38px;
+    border-radius: 3px;
+    border: 0;
+    background: #ec5990;
+    cursor: pointer;
+    color: white;
+}
+
+.get-truck-form label {
+    font-family: monospace;
+    background: gainsboro;
+    font-size: 18px;
+    padding: 6px;
+}
+
+.get-truck-form .error-label {
+    color: red;
+}

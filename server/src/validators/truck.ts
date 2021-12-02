@@ -4,9 +4,9 @@ import { query } from 'express-validator/check'
 const FUEL_TYPES = ['GAS', 'DIESEL', 'ELECTRIC']
 
 const RULES = {
-    "MODEL": {max: 10, min: 1},
+    "MODEL": {min: 1, max: 10},
     "YEAR": {min: 4, max: 4},
-    "LICENSE": {max: 10, min: 1},
+    "LICENSE": {min: 1, max: 10},
     "CUR_DIST_KM": {min: 0, max: 4},
     "MAX_LOAD_KG": {min: 1, max: 4}
 }

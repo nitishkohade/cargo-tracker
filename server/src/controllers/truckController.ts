@@ -97,14 +97,13 @@ export const getTruckInfo = async (req: CustomRequest<{id: number}>) => {
         where: {
             id
         },
-        include: [
-            {
-                model: TruckLocation,
-                limit: 5,
-                order: [ [ 'createdAt', 'DESC' ]]
-            }
-        ],
-        
+        // include: [
+        //     {
+        //         model: TruckLocation,
+        //         limit: 1,
+        //         order: [ [ 'createdAt', 'DESC' ]]
+        //     }
+        // ]        
       })
 
     logger.log("info", "truck info has been received")
