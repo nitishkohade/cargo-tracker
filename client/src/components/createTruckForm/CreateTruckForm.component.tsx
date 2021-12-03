@@ -1,13 +1,13 @@
 import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { useHistory } from "react-router";
+import { fuelTypes, inputFields } from "../../config/truck.config";
 import { createTruck } from "../../services/createTruck.service";
 import {setTruckInstance} from "../store/Truck";
 import { setTruckLocationsInstance } from "../store/TruckLocation";
 import './CreateTruckForm.style.css'
 
 type errorProps = {[key: string]:string[]}
-
 type errorStateProps =  errorProps
 
 const CreateTruckForm = () => {
@@ -15,21 +15,6 @@ const CreateTruckForm = () => {
     const history = useHistory();
     const { register, handleSubmit } = useForm();
     const [errors, setErrors] = useState<errorStateProps>({});
-
-    const inputFields = [
-        {key: "model", placeholder: "Model", type: "text", minLength: 1, maxLength: 10},
-        {key: "year", placeholder: "Year", type: "number", min: 1000, max: 9999},
-        {key: "licensePlate", placeholder: "License Plate", type: "text", minLength: 1, maxLength: 10},
-        {key: "currentDistance_KM", placeholder: "Current Distance KM", type: "number", min: 0, max: 9999},
-        {key: "maxLoad_KG", placeholder: "Max Load KG", type: "number", min: 1, max: 9999}
-    ]
-
-    const fuelTypes = [
-        {key: "", value: "Select..."},
-        {key: "GAS", value: "Gas"},
-        {key: "DIESEL", value: "Diesel"},
-        {key: "ELECTRIC", value: "Electric"}
-    ]
 
     const setErrorMessages = (data: {field: string, message: string}[]) => {
         const errors: {[key:string]:string[]} = {}
@@ -49,6 +34,7 @@ const CreateTruckForm = () => {
         try{
             const {data, status} = await createTruck(body)
             if(status === 201) {
+                
                 const {licensePlate, id, model, year, currentDistance_KM, maxLoad_KG, fuelType} = data[0].data
                 setTruckInstance({licensePlate, id, model, year, currentDistance_KM, maxLoad_KG, fuelType})
                 setTruckLocationsInstance()
@@ -60,9 +46,12 @@ const CreateTruckForm = () => {
     }
 
     const errorMessage = (type: string) => {
-        return Object.entries(errors).length ? <div className="error-label">
-                    {errors[type] && errors[type][0]}
-                </div> : ''
+        if(errors[type]) {
+            return <div data-testid={`error-${type}`} className="error-label">
+                {errors[type][0]}
+            </div>
+        }
+        return ''
     }
   
     return (
@@ -71,7 +60,8 @@ const CreateTruckForm = () => {
                 <form className="create-truck-form" onSubmit={handleSubmit(onSubmit)}>
                     {
                         inputFields.map((obj) =>
-                            <div key={obj.key} className="form-control"><input 
+                            <div key={obj.key} className="form-control"><input
+                                    data-testid={obj.key}
                                     {...register(obj.key)}
                                     {...obj}
                                     required
@@ -81,7 +71,7 @@ const CreateTruckForm = () => {
                         )
                     }
                     <div className="form-control">
-                        <select {...register("fuelType")}>
+                        <select data-testid={'fuelType'} {...register("fuelType")}>
                             {
                                 fuelTypes.map((obj) => 
                                     <option key={obj.key} value={obj.key}>{obj.value}</option>
@@ -90,7 +80,12 @@ const CreateTruckForm = () => {
                         </select>
                         {errorMessage('fuelType')}
                     </div>
-                    <input className="submit" type="submit" value="Create Truck" />
+                    <input
+                        data-testid={'submit'} 
+                        className="submit" 
+                        type="submit" 
+                        value="Create Truck" 
+                    />
                 </form>
             }
       </div>

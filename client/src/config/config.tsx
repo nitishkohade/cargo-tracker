@@ -1,3 +1,0 @@
-export const config = {
-    SERVICE_URL: "http://localhost:3000/api"
-}

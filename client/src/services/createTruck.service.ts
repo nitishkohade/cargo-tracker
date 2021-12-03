@@ -1,5 +1,5 @@
 import axios, { AxiosRequestConfig } from "axios"
-import { config } from "../config/config";
+import { config } from "../config/service.config";
 
 const options: AxiosRequestConfig = {
     url: `${config.SERVICE_URL}/truck/create`,
@@ -10,6 +10,6 @@ const options: AxiosRequestConfig = {
     }
   };
 
-export const createTruck = (data: createTruckProps) => {
+export const createTruck:any = (data: createTruckProps) => {
     return axios({...options, data}).then(res => res).catch(err => err.response)
 }

@@ -1,5 +1,5 @@
 import axios, { AxiosRequestConfig } from "axios"
-import { config } from "../config/config";
+import { config } from "../config/service.config";
 
 const options: AxiosRequestConfig = {
     url: `${config.SERVICE_URL}/truckLocation/getLastNLocations`,
