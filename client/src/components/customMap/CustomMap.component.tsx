@@ -1,4 +1,5 @@
 import { Map, GoogleApiWrapper, Marker } from 'google-maps-react';
+import { CONFIG } from '../../config/map.config';
 import "./CustomMap.style.css"
 
 // declare global {
@@ -64,5 +65,5 @@ const CustomMap = ({truckLocations, google}: any) => {
 }
 
 export default GoogleApiWrapper({
-    apiKey: 'AIzaSyAGlmyv8EW44YBaPn3jXLxX3atMLCkN5Q4'
+    apiKey: CONFIG.API_KEY
   })(CustomMap);

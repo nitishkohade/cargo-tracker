@@ -73,7 +73,7 @@ const UpdateTruckLocationOnMap = () => {
                 <div className="last-n-location">
                     <label>Your Last Locations</label>
                     <select onChange={onSelect}>
-                        <option selected value="5">5</option>
+                        <option value="5">5</option>
                         <option value="10">10</option>
                         <option value="15">15</option>
                         <option value="20">20</option>

@@ -5631,3 +5631,25 @@
 2021-12-02T18:45:11.867Z - [32minfo[39m: last 10 locations for truckId 53
 2021-12-02T18:45:11.867Z - [32minfo[39m: undefined
 2021-12-02T18:45:11.871Z - [32minfo[39m: last 10 locations of truckId 53 has been retrieved
+2021-12-02T18:50:33.426Z - [32minfo[39m: Database is up and running
+2021-12-02T18:50:33.426Z - [32minfo[39m: truck location is received for truckId 53
+2021-12-02T18:50:33.426Z - [32minfo[39m: undefined
+2021-12-02T18:50:33.437Z - [32minfo[39m: latest location of truckId 53 has been added
+2021-12-02T18:50:33.921Z - [32minfo[39m: Database is up and running
+2021-12-02T18:50:33.923Z - [32minfo[39m: truck location is received for truckId 53
+2021-12-02T18:50:33.923Z - [32minfo[39m: undefined
+2021-12-02T18:50:33.951Z - [32minfo[39m: latest location of truckId 53 has been added
+2021-12-02T18:50:34.083Z - [32minfo[39m: Database is up and running
+2021-12-02T18:50:34.084Z - [32minfo[39m: truck location is received for truckId 53
+2021-12-02T18:50:34.084Z - [32minfo[39m: undefined
+2021-12-02T18:50:34.092Z - [32minfo[39m: latest location of truckId 53 has been added
+2021-12-02T18:50:34.227Z - [32minfo[39m: Database is up and running
+2021-12-02T18:50:34.227Z - [32minfo[39m: truck location is received for truckId 53
+2021-12-02T18:50:34.227Z - [32minfo[39m: undefined
+2021-12-02T18:50:34.237Z - [32minfo[39m: latest location of truckId 53 has been added
+2021-12-02T18:50:35.239Z - [32minfo[39m: Database is up and running
+2021-12-02T18:50:35.240Z - [32minfo[39m: truck location is received for truckId 53
+2021-12-02T18:50:35.240Z - [32minfo[39m: undefined
+2021-12-02T18:50:35.250Z - [32minfo[39m: latest location of truckId 53 has been added
+2021-12-03T11:32:01.535Z - [32minfo[39m: Database is up and running
+2021-12-03T11:32:01.538Z - [32minfo[39m: validation error.
