@@ -5653,3 +5653,198 @@
 2021-12-02T18:50:35.250Z - [32minfo[39m: latest location of truckId 53 has been added
 2021-12-03T11:32:01.535Z - [32minfo[39m: Database is up and running
 2021-12-03T11:32:01.538Z - [32minfo[39m: validation error.
+2021-12-03T13:13:44.489Z - [32minfo[39m: Database is up and running
+2021-12-03T13:13:44.490Z - [32minfo[39m: truck is being created
+2021-12-03T13:13:44.491Z - [32minfo[39m: undefined
+2021-12-03T13:13:44.499Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-12-03T13:28:07.639Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:07.640Z - [32minfo[39m: truck is being created
+2021-12-03T13:28:07.640Z - [32minfo[39m: undefined
+2021-12-03T13:28:07.666Z - [32minfo[39m: A new truck has been created
+2021-12-03T13:28:11.252Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:11.253Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:11.254Z - [32minfo[39m: undefined
+2021-12-03T13:28:11.267Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:14.840Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:14.841Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:14.841Z - [32minfo[39m: undefined
+2021-12-03T13:28:14.853Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:18.847Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:18.848Z - [32minfo[39m: last 10 locations for truckId 54
+2021-12-03T13:28:18.848Z - [32minfo[39m: undefined
+2021-12-03T13:28:18.855Z - [32minfo[39m: last 10 locations of truckId 54 has been retrieved
+2021-12-03T13:28:20.692Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:20.693Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:20.693Z - [32minfo[39m: undefined
+2021-12-03T13:28:20.705Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:20.940Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:20.941Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:20.941Z - [32minfo[39m: undefined
+2021-12-03T13:28:20.951Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:21.074Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:21.075Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:21.075Z - [32minfo[39m: undefined
+2021-12-03T13:28:21.084Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:21.204Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:21.204Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:21.204Z - [32minfo[39m: undefined
+2021-12-03T13:28:21.215Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:21.310Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:21.311Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:21.312Z - [32minfo[39m: undefined
+2021-12-03T13:28:21.322Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:24.129Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:24.130Z - [32minfo[39m: last 5 locations for truckId 54
+2021-12-03T13:28:24.130Z - [32minfo[39m: undefined
+2021-12-03T13:28:24.134Z - [32minfo[39m: last 5 locations of truckId 54 has been retrieved
+2021-12-03T13:28:26.667Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:26.668Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:26.668Z - [32minfo[39m: undefined
+2021-12-03T13:28:26.680Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:26.918Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:26.919Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:26.919Z - [32minfo[39m: undefined
+2021-12-03T13:28:26.930Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:27.100Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:27.101Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:27.101Z - [32minfo[39m: undefined
+2021-12-03T13:28:27.113Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:27.246Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:27.247Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:27.247Z - [32minfo[39m: undefined
+2021-12-03T13:28:27.255Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:27.739Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:27.740Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:27.740Z - [32minfo[39m: undefined
+2021-12-03T13:28:27.748Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:28.156Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:28.157Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:28.157Z - [32minfo[39m: undefined
+2021-12-03T13:28:28.167Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:28.411Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:28.413Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:28.413Z - [32minfo[39m: undefined
+2021-12-03T13:28:28.425Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:28.611Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:28.612Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:28.612Z - [32minfo[39m: undefined
+2021-12-03T13:28:28.620Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:28.871Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:28.872Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:28.872Z - [32minfo[39m: undefined
+2021-12-03T13:28:28.883Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:29.074Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:29.075Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:29.076Z - [32minfo[39m: undefined
+2021-12-03T13:28:29.085Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:29.482Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:29.484Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:29.484Z - [32minfo[39m: undefined
+2021-12-03T13:28:29.495Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:29.911Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:29.912Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:29.912Z - [32minfo[39m: undefined
+2021-12-03T13:28:29.922Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:30.078Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:30.079Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:30.080Z - [32minfo[39m: undefined
+2021-12-03T13:28:30.089Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:30.286Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:30.287Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:30.287Z - [32minfo[39m: undefined
+2021-12-03T13:28:30.295Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:30.477Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:30.479Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:30.479Z - [32minfo[39m: undefined
+2021-12-03T13:28:30.489Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:30.593Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:30.594Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:30.594Z - [32minfo[39m: undefined
+2021-12-03T13:28:30.603Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:30.731Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:30.732Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:30.732Z - [32minfo[39m: undefined
+2021-12-03T13:28:30.743Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:28:30.871Z - [32minfo[39m: Database is up and running
+2021-12-03T13:28:30.872Z - [32minfo[39m: truck location is received for truckId 54
+2021-12-03T13:28:30.872Z - [32minfo[39m: undefined
+2021-12-03T13:28:30.882Z - [32minfo[39m: latest location of truckId 54 has been added
+2021-12-03T13:35:10.222Z - [32minfo[39m: Server Port: 3000
+2021-12-03T13:35:10.224Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-12-03T13:35:10.312Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:10.316Z - [32minfo[39m: truck is being created
+2021-12-03T13:35:10.316Z - [32minfo[39m: undefined
+2021-12-03T13:35:10.346Z - [32minfo[39m: A new truck has been created
+2021-12-03T13:35:10.359Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:10.360Z - [32minfo[39m: truck is being created
+2021-12-03T13:35:10.360Z - [32minfo[39m: undefined
+2021-12-03T13:35:10.364Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-12-03T13:35:10.369Z - [32minfo[39m: Route not found
+2021-12-03T13:35:10.377Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:10.378Z - [32minfo[39m: truck is being created
+2021-12-03T13:35:10.378Z - [32minfo[39m: undefined
+2021-12-03T13:35:10.381Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-12-03T13:35:10.387Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:10.388Z - [32minfo[39m: truck is being created
+2021-12-03T13:35:10.388Z - [32minfo[39m: undefined
+2021-12-03T13:35:10.391Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-12-03T13:35:10.397Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:10.398Z - [32minfo[39m: validation error.
+2021-12-03T13:35:10.408Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:10.408Z - [32minfo[39m: validation error.
+2021-12-03T13:35:10.415Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:10.417Z - [32minfo[39m: truck is being updated
+2021-12-03T13:35:10.417Z - [32minfo[39m: undefined
+2021-12-03T13:35:10.429Z - [32minfo[39m: truck data has been updated
+2021-12-03T13:35:10.435Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:10.436Z - [32minfo[39m: truck is being updated
+2021-12-03T13:35:10.436Z - [32minfo[39m: undefined
+2021-12-03T13:35:10.439Z - [32minfo[39m: truck did not update
+2021-12-03T13:35:10.445Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:10.446Z - [32minfo[39m: validation error.
+2021-12-03T13:35:10.452Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:10.453Z - [32minfo[39m: get truck info alongwith its locations for truckId 1
+2021-12-03T13:35:10.453Z - [32minfo[39m: undefined
+2021-12-03T13:35:10.456Z - [32minfo[39m: truck info has been received
+2021-12-03T13:35:10.463Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:10.463Z - [32minfo[39m: truck location is received for truckId 1
+2021-12-03T13:35:10.463Z - [32minfo[39m: undefined
+2021-12-03T13:35:10.473Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-12-03T13:35:15.494Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:15.495Z - [32minfo[39m: truck location is received for truckId 1
+2021-12-03T13:35:15.495Z - [32minfo[39m: undefined
+2021-12-03T13:35:15.503Z - [32minfo[39m: latest location of truckId 1 has been added
+2021-12-03T13:35:15.509Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:15.510Z - [32minfo[39m: truck location is received for truckId 4
+2021-12-03T13:35:15.510Z - [32minfo[39m: undefined
+2021-12-03T13:35:15.518Z - [32minfo[39m: Cannot add or update a child row: a foreign key constraint fails (`test`.`TruckLocations`, CONSTRAINT `TruckLocations_ibfk_1` FOREIGN KEY (`truckId`) REFERENCES `Trucks` (`id`) ON DELETE CASCADE)
+2021-12-03T13:35:15.523Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:15.524Z - [32minfo[39m: validation error.
+2021-12-03T13:35:21.543Z - [32minfo[39m: Database is up and running
+2021-12-03T13:35:21.544Z - [32minfo[39m: last 5 locations for truckId 1
+2021-12-03T13:35:21.544Z - [32minfo[39m: undefined
+2021-12-03T13:35:21.549Z - [32minfo[39m: last 5 locations of truckId 1 has been retrieved
+2021-12-03T13:38:53.230Z - [32minfo[39m: Server Port: 3000
+2021-12-03T13:38:53.232Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-12-03T13:42:45.179Z - [32minfo[39m: Database is up and running
+2021-12-03T13:42:45.184Z - [32minfo[39m: truck is being created
+2021-12-03T13:42:45.185Z - [32minfo[39m: undefined
+2021-12-03T13:42:45.193Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-12-03T13:46:25.295Z - [32minfo[39m: Database is up and running
+2021-12-03T13:46:25.296Z - [32minfo[39m: truck is being created
+2021-12-03T13:46:25.296Z - [32minfo[39m: undefined
+2021-12-03T13:46:25.301Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-12-03T13:47:29.995Z - [32minfo[39m: Server Port: 3000
+2021-12-03T13:47:29.997Z - [32minfo[39m: Server URL: http://localhost:3000
+2021-12-03T13:47:33.983Z - [32minfo[39m: Database is up and running
+2021-12-03T13:47:33.989Z - [32minfo[39m: truck is being created
+2021-12-03T13:47:33.989Z - [32minfo[39m: undefined
+2021-12-03T13:47:34.002Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-12-03T13:47:37.223Z - [32minfo[39m: Database is up and running
+2021-12-03T13:47:37.224Z - [32minfo[39m: truck is being created
+2021-12-03T13:47:37.224Z - [32minfo[39m: undefined
+2021-12-03T13:47:37.227Z - [32minfo[39m: The truck is already registered with the same license plate number.
+2021-12-03T13:49:43.366Z - [32minfo[39m: Database is up and running
+2021-12-03T13:49:43.368Z - [32minfo[39m: truck is being created
+2021-12-03T13:49:43.368Z - [32minfo[39m: undefined
+2021-12-03T13:49:43.371Z - [32minfo[39m: The truck is already registered with the same license plate number.

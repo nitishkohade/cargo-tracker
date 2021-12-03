@@ -3,6 +3,16 @@
     padding: 43px;
 }
 
+.custom-form .error-message {
+    text-align: center;
+    margin-bottom: 22px;
+    background: #f38da1;
+    color: white;
+    font-family: monospace;
+    font-size: 15px;
+    padding: 8px;
+}
+
 .custom-form .create-truck-form {
     display: grid;
     grid-template-columns: 2fr 2fr 2fr;

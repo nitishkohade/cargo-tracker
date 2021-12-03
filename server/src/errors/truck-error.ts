@@ -10,7 +10,8 @@ export class TruckFoundError extends CustomError {
     serializeErrors() {
         return [
             {
-                message: this.message
+                message: this.message,
+                field: "service"
             }
         ]
     }

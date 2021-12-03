@@ -40,7 +40,7 @@ const testApp = () => {
 }
 
 gulp.task('clean', cleanProjectDist);
-gulp.task('build', gulp.series(['clean'], buildProject));
 gulp.task('copy-data', copyData);
+gulp.task('build', gulp.series(['clean', 'copy-data'], buildProject));
 gulp.task('start', gulp.series(['build', 'copy-data'], startApp));
 gulp.task('test', gulp.series(['build', 'copy-data'], testApp));
